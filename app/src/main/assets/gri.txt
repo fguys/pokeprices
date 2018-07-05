@@ -1,0 +1,1014 @@
+Bellsprout
+1
+Guardians Rising
+Pokemon - Basic
+Grass
+Common
+Weepinbell
+2
+Guardians Rising
+Pokemon - Stage 1
+Grass
+Uncommon
+Victreebel
+3
+Guardians Rising
+Pokemon - Stage 2
+Grass
+Rare
+Petilil
+4
+Guardians Rising
+Pokemon - Basic
+Grass
+Common
+Lilligant
+5
+Guardians Rising
+Pokemon - Stage 1
+Grass
+Rare
+Phantump
+6
+Guardians Rising
+Pokemon - Basic
+Grass
+Common
+Trevenant
+7
+Guardians Rising
+Pokemon - Stage 1
+Grass
+Rare
+Wimpod
+8
+Guardians Rising
+Pokemon - Basic
+Grass
+Common
+Golisopod
+9
+Guardians Rising
+Pokemon - Stage 1
+Grass
+Rare Holo
+Victini
+10
+Guardians Rising
+Pokemon - Basic
+Fire
+Rare Holo
+Litwick
+11
+Guardians Rising
+Pokemon - Basic
+Fire
+Common
+Lampent
+12
+Guardians Rising
+Pokemon - Stage 1
+Fire
+Uncommon
+Chandelure
+13
+Guardians Rising
+Pokemon - Stage 2
+Fire
+Rare Holo
+Oricorio
+14
+Guardians Rising
+Pokemon - Basic
+Fire
+Rare
+Salandit
+15
+Guardians Rising
+Pokemon - Basic
+Fire
+Common
+Salazzle
+16
+Guardians Rising
+Pokemon - Stage 1
+Fire
+Rare
+Turtonator
+17
+Guardians Rising
+Pokemon - Basic
+Fire
+Rare
+Turtonator-GX
+18
+Guardians Rising
+Pokemon - Basic
+Fire
+Ultra Rare
+Alolan Sandshrew
+19
+Guardians Rising
+Pokemon - Basic
+Water
+Common
+Alolan Sandslash
+20
+Guardians Rising
+Pokemon - Stage 1
+Water
+Rare
+Alolan Vulpix
+21
+Guardians Rising
+Pokemon - Basic
+Water
+Common
+Alolan Ninetales-GX
+22
+Guardians Rising
+Pokemon - Stage 1
+Water
+Ultra Rare
+Tentacool
+23
+Guardians Rising
+Pokemon - Basic
+Water
+Common
+Tentacruel
+24
+Guardians Rising
+Pokemon - Stage 1
+Water
+Uncommon
+Politoed
+25
+Guardians Rising
+Pokemon - Stage 2
+Water
+Rare Holo
+Delibird
+26
+Guardians Rising
+Pokemon - Basic
+Water
+Common
+Carvanha
+27
+Guardians Rising
+Pokemon - Basic
+Water
+Common
+Sharpedo
+28
+Guardians Rising
+Pokemon - Stage 1
+Water
+Rare
+Wailmer
+29
+Guardians Rising
+Pokemon - Basic
+Water
+Common
+Wailord
+30
+Guardians Rising
+Pokemon - Stage 1
+Water
+Rare
+Snorunt
+31
+Guardians Rising
+Pokemon - Basic
+Water
+Common
+Glalie
+32
+Guardians Rising
+Pokemon - Stage 1
+Water
+Uncommon
+Vanillite
+33
+Guardians Rising
+Pokemon - Basic
+Water
+Common
+Vanillish
+34
+Guardians Rising
+Pokemon - Stage 1
+Water
+Uncommon
+Vanilluxe
+35
+Guardians Rising
+Pokemon - Stage 2
+Water
+Rare
+Alomomola
+36
+Guardians Rising
+Pokemon - Basic
+Water
+Uncommon
+Wishiwashi
+37
+Guardians Rising
+Pokemon - Basic
+Water
+Common
+Wishiwashi-GX
+38
+Guardians Rising
+Pokemon - Basic
+Water
+Ultra Rare
+Mareanie
+39
+Guardians Rising
+Pokemon - Basic
+Water
+Uncommon
+Alolan Geodude
+40
+Guardians Rising
+Pokemon - Basic
+Lightning
+Common
+Alolan Graveler
+41
+Guardians Rising
+Pokemon - Stage 1
+Lightning
+Common
+Alolan Golem
+42
+Guardians Rising
+Pokemon - Stage 2
+Lightning
+Rare Holo
+Helioptile
+43
+Guardians Rising
+Pokemon - Basic
+Lightning
+Common
+Heliolisk
+44
+Guardians Rising
+Pokemon - Stage 1
+Lightning
+Rare
+Vikavolt-GX
+45
+Guardians Rising
+Pokemon - Stage 2
+Lightning
+Ultra Rare
+Oriocorio
+46
+Guardians Rising
+Pokemon - Basic
+Lightning
+Rare
+Tapu Koko-GX
+47
+Guardians Rising
+Pokemon - Basic
+Lightning
+Ultra Rare
+Slowpoke
+48
+Guardians Rising
+Pokemon - Basic
+Psychic
+Common
+Slowbro
+49
+Guardians Rising
+Pokemon - Stage 1
+Psychic
+Uncommon
+Trubbish
+50
+Guardians Rising
+Pokemon - Basic
+Psychic
+Common
+Garbodor
+51
+Guardians Rising
+Pokemon - Stage 1
+Psychic
+Rare
+Gothita
+52
+Guardians Rising
+Pokemon - Basic
+Psychic
+Common
+Gothorita
+53
+Guardians Rising
+Pokemon - Stage 1
+Psychic
+Uncommon
+Gothitelle
+54
+Guardians Rising
+Pokemon - Stage 2
+Psychic
+Rare
+Oricorio
+55
+Guardians Rising
+Pokemon - Basic
+Psychic
+Rare
+Oricorio
+56
+Guardians Rising
+Pokemon - Basic
+Psychic
+Rare
+Toxapex-GX
+57
+Guardians Rising
+Pokemon - Stage 1
+Psychic
+Ultra Rare
+Mimikyu
+58
+Guardians Rising
+Pokemon - Basic
+Psychic
+Rare Holo
+Dhelmise
+59
+Guardians Rising
+Pokemon - Basic
+Psychic
+Rare Holo
+Tapu Lele-GX
+60
+Guardians Rising
+Pokemon - Basic
+Psychic
+Ultra Rare
+Lunala
+61
+Guardians Rising
+Pokemon - Stage 2
+Psychic
+Rare
+Machop
+62
+Guardians Rising
+Pokemon - Basic
+Fighting
+Common
+Machop
+63
+Guardians Rising
+Pokemon - Basic
+Fighting
+Common
+Machoke
+64
+Guardians Rising
+Pokemon - Stage 1
+Fighting
+Uncommon
+Machamp
+65
+Guardians Rising
+Pokemon - Stage 2
+Fighting
+Rare Holo
+Sudowoodo
+66
+Guardians Rising
+Pokemon - Basic
+Fighting
+Uncommon
+Gligar
+67
+Guardians Rising
+Pokemon - Basic
+Fighting
+Common
+Gliscor
+68
+Guardians Rising
+Pokemon - Stage 1
+Fighting
+Uncommon
+Nosepass
+69
+Guardians Rising
+Pokemon - Basic
+Fighting
+Common
+Barboach
+70
+Guardians Rising
+Pokemon - Basic
+Fighting
+Common
+Whiscash
+71
+Guardians Rising
+Pokemon - Stage 1
+Fighting
+Rare
+Pancham
+72
+Guardians Rising
+Pokemon - Basic
+Fighting
+Common
+Rockruff
+73
+Guardians Rising
+Pokemon - Basic
+Fighting
+Common
+Lycanroc-GX
+74
+Guardians Rising
+Pokemon - Stage 1
+Fighting
+Ultra Rare
+Mudbray
+75
+Guardians Rising
+Pokemon - Basic
+Fighting
+Common
+Mudsdale
+76
+Guardians Rising
+Pokemon - Stage 1
+Fighting
+Rare Holo
+Minior
+77
+Guardians Rising
+Pokemon - Basic
+Fighting
+Rare Holo
+Murkrow
+78
+Guardians Rising
+Pokemon - Basic
+Darkness
+Common
+Honchkrow
+79
+Guardians Rising
+Pokemon - Stage 1
+Darkness
+Rare
+Sableye
+80
+Guardians Rising
+Pokemon - Basic
+Darkness
+Uncommon
+Absol
+81
+Guardians Rising
+Pokemon - Basic
+Darkness
+Rare Holo
+Pangoro
+82
+Guardians Rising
+Pokemon - Stage 1
+Darkness
+Rare
+Beldum
+83
+Guardians Rising
+Pokemon - Basic
+Metal
+Common
+Metang
+84
+Guardians Rising
+Pokemon - Stage 1
+Metal
+Uncommon
+Metagross-GX
+85
+Guardians Rising
+Pokemon - Stage 2
+Metal
+Ultra Rare
+Probopass
+86
+Guardians Rising
+Pokemon - Stage 1
+Metal
+Rare
+Solgaleo
+87
+Guardians Rising
+Pokemon - Stage 2
+Metal
+Rare
+Clefairy
+88
+Guardians Rising
+Pokemon - Basic
+Fairy
+Common
+Clefable
+89
+Guardians Rising
+Pokemon - Stage 1
+Fairy
+Uncommon
+Cottonee
+90
+Guardians Rising
+Pokemon - Basic
+Fairy
+Common
+Whimsicott
+91
+Guardians Rising
+Pokemon - Stage 1
+Fairy
+Uncommon
+Sylveon-GX
+92
+Guardians Rising
+Pokemon - Stage 1
+Fairy
+Ultra Rare
+Comfey
+93
+Guardians Rising
+Pokemon - Basic
+Fairy
+Rare Holo
+Goomy
+94
+Guardians Rising
+Pokemon - Basic
+Dragon
+Common
+Sliggoo
+95
+Guardians Rising
+Pokemon - Stage 1
+Dragon
+Uncommon
+Goodra
+96
+Guardians Rising
+Pokemon - Stage 2
+Dragon
+Rare Holo
+Drampa
+97
+Guardians Rising
+Pokemon - Basic
+Dragon
+Rare Holo
+Jangmo-o
+98
+Guardians Rising
+Pokemon - Basic
+Dragon
+Common
+Hakamo-o
+99
+Guardians Rising
+Pokemon - Stage 1
+Dragon
+Uncommon
+Kommo-o-GX
+100
+Guardians Rising
+Pokemon - Stage 2
+Dragon
+Ultra Rare
+Chansey
+101
+Guardians Rising
+Pokemon - Basic
+Colorless
+Common
+Blissey
+102
+Guardians Rising
+Pokemon - Stage 1
+Colorless
+Rare Holo
+Taillow
+103
+Guardians Rising
+Pokemon - Basic
+Colorless
+Common
+Swellow
+104
+Guardians Rising
+Pokemon - Stage 1
+Colorless
+Rare
+Castform
+105
+Guardians Rising
+Pokemon - Basic
+Colorless
+Common
+Rayquaza
+106
+Guardians Rising
+Pokemon - Basic
+Colorless
+Rare
+Patrat
+107
+Guardians Rising
+Pokemon - Basic
+Colorless
+Common
+Watchog
+108
+Guardians Rising
+Pokemon - Stage 1
+Colorless
+Uncommon
+Fletchling
+109
+Guardians Rising
+Pokemon - Basic
+Colorless
+Common
+Fletchinder
+110
+Guardians Rising
+Pokemon - Stage 1
+Colorless
+Uncommon
+Talonflame
+111
+Guardians Rising
+Pokemon - Stage 2
+Colorless
+Rare
+Stufful
+112
+Guardians Rising
+Pokemon - Basic
+Colorless
+Common
+Bewear
+113
+Guardians Rising
+Pokemon - Stage 1
+Colorless
+Uncommon
+Komala
+114
+Guardians Rising
+Pokemon - Basic
+Colorless
+Uncommon
+Drampa-GX
+115
+Guardians Rising
+Pokemon - Basic
+Colorless
+Ultra Rare
+Aether Paradise Conservation Area
+116
+Guardians Rising
+Trainer - Stadium
+n/a
+Uncommon
+Altar of the Moone
+117
+Guardians Rising
+Trainer - Stadium
+n/a
+Uncommon
+Altar of the Sunne
+118
+Guardians Rising
+Trainer - Stadium
+n/a
+Uncommon
+Aqua Patch
+119
+Guardians Rising
+Trainer - Item
+n/a
+Uncommon
+Brooklet Hill
+120
+Guardians Rising
+Trainer - Stadium
+n/a
+Uncommon
+Choice Band
+121
+Guardians Rising
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Energy Loto
+122
+Guardians Rising
+Trainer - Item
+n/a
+Uncommon
+Energy Recycler
+123
+Guardians Rising
+Trainer - Item
+n/a
+Uncommon
+Enhanced Hammer
+124
+Guardians Rising
+Trainer - Item
+n/a
+Common
+Field Blower
+125
+Guardians Rising
+Trainer - Item
+n/a
+Uncommon
+Hala
+126
+Guardians Rising
+Trainer - Supporter
+n/a
+Uncommon
+Mallow
+127
+Guardians Rising
+Trainer - Supporter
+n/a
+Uncommon
+Max Potion
+128
+Guardians Rising
+Trainer - Item
+n/a
+Uncommon
+Multi Switch
+129
+Guardians Rising
+Trainer - Item
+n/a
+Uncommon
+Rescue Stretcher
+130
+Guardians Rising
+Trainer - Item
+n/a
+Uncommon
+Turtonator-GX
+131
+Guardians Rising
+Pokemon - Basic
+Fire
+Ultra Rare
+Alolan Ninetales-GX
+132
+Guardians Rising
+Pokemon - Stage 1
+Water
+Ultra Rare
+Wishiwashi-GX
+133
+Guardians Rising
+Pokemon - Basic
+Water
+Ultra Rare
+Vikavolt-GX
+134
+Guardians Rising
+Pokemon - Stage 2
+Lightning
+Ultra Rare
+Tapu Koko-GX
+135
+Guardians Rising
+Pokemon - Basic
+Lightning
+Ultra Rare
+Toxapex-GX
+136
+Guardians Rising
+Pokemon - Stage 1
+Psychic
+Ultra Rare
+Tapu Lele-GX
+137
+Guardians Rising
+Pokemon - Basic
+Psychic
+Ultra Rare
+Lycanroc-GX
+138
+Guardians Rising
+Pokemon - Stage 1
+Fighting
+Ultra Rare
+Metagross-GX
+139
+Guardians Rising
+Pokemon - Stage 2
+Metal
+Ultra Rare
+Sylveon-GX
+140
+Guardians Rising
+Pokemon - Stage 1
+Fairy
+Ultra Rare
+Kommo-o-GX
+141
+Guardians Rising
+Pokemon - Stage 2
+Dragon
+Ultra Rare
+Drampa-GX
+142
+Guardians Rising
+Pokemon - Basic
+Colorless
+Ultra Rare
+Hala
+143
+Guardians Rising
+Trainer - Supporter
+n/a
+Ultra Rare
+Hau
+144
+Guardians Rising
+Trainer - Supporter
+n/a
+Ultra Rare
+Mallow
+145
+Guardians Rising
+Trainer - Supporter
+n/a
+Ultra Rare
+Decidueye-GX
+146
+Guardians Rising
+Pokemon - Stage 2
+Grass
+Secret Rare
+Incineroar-GX
+147
+Guardians Rising
+Pokemon - Stage 2
+Fire
+Secret Rare
+Turtonator-GX
+148
+Guardians Rising
+Pokemon - Basic
+Fire
+Secret Rare
+Primarina-GX
+149
+Guardians Rising
+Pokemon - Stage 2
+Water
+Secret Rare
+Alolan Ninetales-GX
+150
+Guardians Rising
+Pokemon - Stage 1
+Water
+Secret Rare
+Wishiwashi-GX
+151
+Guardians Rising
+Pokemon - Basic
+Water
+Secret Rare
+Vikavolt-GX
+152
+Guardians Rising
+Pokemon - Stage 2
+Lightning
+Secret Rare
+Tapu Koko-GX
+153
+Guardians Rising
+Pokemon - Basic
+Lightning
+Secret Rare
+Toxapex-GX
+154
+Guardians Rising
+Pokemon - Stage 1
+Psychic
+Secret Rare
+Tapu Lele-GX
+155
+Guardians Rising
+Pokemon - Basic
+Psychic
+Secret Rare
+Lycanroc-GX
+156
+Guardians Rising
+Pokemon - Stage 1
+Fighting
+Secret Rare
+Metagross-GX
+157
+Guardians Rising
+Pokemon - Stage 2
+Metal
+Secret Rare
+Sylveon-GX
+158
+Guardians Rising
+Pokemon - Stage 1
+Fairy
+Secret Rare
+Kommo-o-GX
+159
+Guardians Rising
+Pokemon - Stage 2
+Dragon
+Secret Rare
+Drampa-GX
+160
+Guardians Rising
+Pokemon - Basic
+Colorless
+Secret Rare
+Aqua Patch
+161
+Guardians Rising
+Trainer - Item
+n/a
+Secret Rare
+Enhanced Hammer
+162
+Guardians Rising
+Trainer - Item
+n/a
+Secret Rare
+Field Blower
+163
+Guardians Rising
+Trainer - Item
+n/a
+Secret Rare
+Max Potion
+164
+Guardians Rising
+Trainer - Item
+n/a
+Secret Rare
+Rare Candy
+165
+Guardians Rising
+Trainer - Item
+n/a
+Secret Rare
+Double Colorless Energy
+166
+Guardians Rising
+Energy - Special Energy
+n/a
+Secret Rare
+Grass Energy
+167
+Guardians Rising
+Energy - Basic Energy
+n/a
+Secret Rare
+Lightning Energy
+168
+Guardians Rising
+Energy - Basic Energy
+n/a
+Secret Rare
+Fighting Energy
+169
+Guardians Rising
+Energy - Basic Energy
+n/a
+Secret Rare

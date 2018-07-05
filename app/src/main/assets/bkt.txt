@@ -1,0 +1,984 @@
+Paras
+1
+XY-BREAKthrough
+Pokemon - Basic
+Grass
+Common
+Parasect
+2
+XY-BREAKthrough
+Pokemon - Stage 1
+Grass
+Rare
+Pinsir
+3
+XY-BREAKthrough
+Pokemon - Basic
+Grass
+Uncommon
+Cacnea
+4
+XY-BREAKthrough
+Pokemon - Basic
+Grass
+Common
+Pansage
+5
+XY-BREAKthrough
+Pokemon - Basic
+Grass
+Common
+Simisage
+6
+XY-BREAKthrough
+Pokemon - Stage 1
+Grass
+Rare
+Chespin
+7
+XY-BREAKthrough
+Pokemon - Basic
+Grass
+Common
+Chespin
+8
+XY-BREAKthrough
+Pokemon - Basic
+Grass
+Common
+Chespin
+9
+XY-BREAKthrough
+Pokemon - Basic
+Grass
+Common
+Quilladin
+10
+XY-BREAKthrough
+Pokemon - Stage 1
+Grass
+Uncommon
+Chesnaught
+11
+XY-BREAKthrough
+Pokemon - Stage 2
+Grass
+Rare Holo
+Chesnaught BREAK
+12
+XY-BREAKthrough
+Pokemon - BREAK
+Grass
+Ultra Rare
+Scatterbug
+13
+XY-BREAKthrough
+Pokemon - Basic
+Grass
+Common
+Spewpa
+14
+XY-BREAKthrough
+Pokemon - Stage 1
+Grass
+Uncommon
+Vivillon
+15
+XY-BREAKthrough
+Pokemon - Stage 2
+Grass
+Rare Holo
+Skiddo
+16
+XY-BREAKthrough
+Pokemon - Basic
+Grass
+Common
+Gogoat
+17
+XY-BREAKthrough
+Pokemon - Stage 1
+Grass
+Uncommon
+Cyndaquil
+18
+XY-BREAKthrough
+Pokemon - Basic
+Fire
+Common
+Quilava
+19
+XY-BREAKthrough
+Pokemon - Stage 1
+Fire
+Uncommon
+Typhlosion
+20
+XY-BREAKthrough
+Pokemon - Stage 2
+Fire
+Rare Holo
+Houndoom-EX
+21
+XY-BREAKthrough
+Pokemon - Basic
+Fire
+Ultra Rare
+M Houndoom-EX
+22
+XY-BREAKthrough
+Pokemon - Mega
+Fire
+Ultra Rare
+Pansear
+23
+XY-BREAKthrough
+Pokemon - Basic
+Fire
+Common
+Simisear
+24
+XY-BREAKthrough
+Pokemon - Stage 1
+Fire
+Rare
+Fennekin
+25
+XY-BREAKthrough
+Pokemon - Basic
+Fire
+Common
+Braixen
+26
+XY-BREAKthrough
+Pokemon - Stage 1
+Fire
+Uncommon
+Goldeen
+27
+XY-BREAKthrough
+Pokemon - Basic
+Water
+Common
+Seaking
+28
+XY-BREAKthrough
+Pokemon - Stage 1
+Water
+Common
+Staryu
+29
+XY-BREAKthrough
+Pokemon - Basic
+Water
+Common
+Starmie
+30
+XY-BREAKthrough
+Pokemon - Stage 1
+Water
+Uncommon
+Remoraid
+31
+XY-BREAKthrough
+Pokemon - Basic
+Water
+Common
+Remoraid
+32
+XY-BREAKthrough
+Pokemon - Basic
+Water
+Common
+Octillery
+33
+XY-BREAKthrough
+Pokemon - Stage 1
+Water
+Rare Holo
+Glalie-EX
+34
+XY-BREAKthrough
+Pokemon - Basic
+Water
+Ultra Rare
+M Glalie-EX
+35
+XY-BREAKthrough
+Pokemon - Mega
+Water
+Ultra Rare
+Piplup
+36
+XY-BREAKthrough
+Pokemon - Basic
+Water
+Common
+Prinplup
+37
+XY-BREAKthrough
+Pokemon - Stage 1
+Water
+Uncommon
+Empoleon
+38
+XY-BREAKthrough
+Pokemon - Stage 2
+Water
+Rare
+Snover
+39
+XY-BREAKthrough
+Pokemon - Basic
+Water
+Common
+Abomasnow
+40
+XY-BREAKthrough
+Pokemon - Stage 1
+Water
+Uncommon
+Panpour
+41
+XY-BREAKthrough
+Pokemon - Basic
+Water
+Common
+Simipour
+42
+XY-BREAKthrough
+Pokemon - Stage 1
+Water
+Common
+Vanillite
+43
+XY-BREAKthrough
+Pokemon - Basic
+Water
+Common
+Vanillish
+44
+XY-BREAKthrough
+Pokemon - Stage 1
+Water
+Uncommon
+Vanilluxe
+45
+XY-BREAKthrough
+Pokemon - Stage 2
+Water
+Rare Holo
+Froakie
+46
+XY-BREAKthrough
+Pokemon - Basic
+Water
+Common
+Frogadier
+47
+XY-BREAKthrough
+Pokemon - Stage 1
+Water
+Uncommon
+Pikachu
+48
+XY-BREAKthrough
+Pokemon - Basic
+Lightning
+Common
+Raichu
+49
+XY-BREAKthrough
+Pokemon - Stage 1
+Lightning
+Rare
+Raichu BREAK
+50
+XY-BREAKthrough
+Pokemon - BREAK
+Lightning
+Ultra Rare
+Magnemite
+51
+XY-BREAKthrough
+Pokemon - Basic
+Lightning
+Common
+Magnemite
+52
+XY-BREAKthrough
+Pokemon - Basic
+Lightning
+Common
+Magneton
+53
+XY-BREAKthrough
+Pokemon - Stage 1
+Lightning
+Uncommon
+Magnezone
+54
+XY-BREAKthrough
+Pokemon - Stage 2
+Lightning
+Rare Holo
+Raikou
+55
+XY-BREAKthrough
+Pokemon - Basic
+Lightning
+Rare
+Stunfisk
+56
+XY-BREAKthrough
+Pokemon - Basic
+Lightning
+Uncommon
+Dedenne
+57
+XY-BREAKthrough
+Pokemon - Basic
+Lightning
+Common
+Gastly
+58
+XY-BREAKthrough
+Pokemon - Basic
+Psychic
+Common
+Haunter
+59
+XY-BREAKthrough
+Pokemon - Stage 1
+Psychic
+Uncommon
+Gengar
+60
+XY-BREAKthrough
+Pokemon - Stage 2
+Psychic
+Rare
+Mewtwo-EX
+61
+XY-BREAKthrough
+Pokemon - Basic
+Psychic
+Ultra Rare
+Mewtwo-EX
+62
+XY-BREAKthrough
+Pokemon - Basic
+Psychic
+Ultra Rare
+M Mewtwo-EX
+63
+XY-BREAKthrough
+Pokemon - Mega
+Psychic
+Ultra Rare
+M Mewtwo-EX
+64
+XY-BREAKthrough
+Pokemon - Mega
+Psychic
+Ultra Rare
+Misdreavus
+65
+XY-BREAKthrough
+Pokemon - Basic
+Psychic
+Common
+Mismagius
+66
+XY-BREAKthrough
+Pokemon - Stage 1
+Psychic
+Rare
+Wobbuffet
+67
+XY-BREAKthrough
+Pokemon - Basic
+Psychic
+Uncommon
+Ralts
+68
+XY-BREAKthrough
+Pokemon - Basic
+Psychic
+Common
+Kirlia
+69
+XY-BREAKthrough
+Pokemon - Stage 1
+Psychic
+Uncommon
+Cresselia
+70
+XY-BREAKthrough
+Pokemon - Basic
+Psychic
+Rare
+Woobat
+71
+XY-BREAKthrough
+Pokemon - Basic
+Psychic
+Common
+Swoobat
+72
+XY-BREAKthrough
+Pokemon - Stage 1
+Psychic
+Uncommon
+Elgyem
+73
+XY-BREAKthrough
+Pokemon - Basic
+Psychic
+Common
+Beheeyem
+74
+XY-BREAKthrough
+Pokemon - Stage 1
+Psychic
+Uncommon
+Sandshrew
+75
+XY-BREAKthrough
+Pokemon - Basic
+Fighting
+Common
+Sandslash
+76
+XY-BREAKthrough
+Pokemon - Stage 1
+Fighting
+Uncommon
+Cubone
+77
+XY-BREAKthrough
+Pokemon - Basic
+Fighting
+Common
+Marowak
+78
+XY-BREAKthrough
+Pokemon - Stage 1
+Fighting
+Rare
+Marowak BREAK
+79
+XY-BREAKthrough
+Pokemon - BREAK
+Fighting
+Ultra Rare
+Swinub
+80
+XY-BREAKthrough
+Pokemon - Basic
+Fighting
+Common
+Piloswine
+81
+XY-BREAKthrough
+Pokemon - Stage 1
+Fighting
+Uncommon
+Mamoswine
+82
+XY-BREAKthrough
+Pokemon - Stage 2
+Fighting
+Rare Holo
+Hippopotas
+83
+XY-BREAKthrough
+Pokemon - Basic
+Fighting
+Common
+Gallade
+84
+XY-BREAKthrough
+Pokemon - Stage 2
+Fighting
+Rare Holo
+Meloetta
+85
+XY-BREAKthrough
+Pokemon - Basic
+Fighting
+Rare
+Pancham
+86
+XY-BREAKthrough
+Pokemon - Basic
+Fighting
+Common
+Hawlucha
+87
+XY-BREAKthrough
+Pokemon - Basic
+Fighting
+Rare
+Cacturne
+88
+XY-BREAKthrough
+Pokemon - Stage 1
+Darkness
+Uncommon
+Zorua
+89
+XY-BREAKthrough
+Pokemon - Basic
+Darkness
+Common
+Zorua
+90
+XY-BREAKthrough
+Pokemon - Basic
+Darkness
+Common
+Zoroark
+91
+XY-BREAKthrough
+Pokemon - Stage 1
+Darkness
+Rare Holo
+Zoroark BREAK
+92
+XY-BREAKthrough
+Pokemon - BREAK
+Darkness
+Ultra Rare
+Inkay
+93
+XY-BREAKthrough
+Pokemon - Basic
+Darkness
+Common
+Yveltal
+94
+XY-BREAKthrough
+Pokemon - Basic
+Darkness
+Rare Holo
+Bronzor
+95
+XY-BREAKthrough
+Pokemon - Basic
+Metal
+Common
+Bronzong
+96
+XY-BREAKthrough
+Pokemon - Stage 1
+Metal
+Rare
+Mr. Mime
+97
+XY-BREAKthrough
+Pokemon - Basic
+Fairy
+Rare
+Snubbull
+98
+XY-BREAKthrough
+Pokemon - Basic
+Fairy
+Common
+Granbull
+99
+XY-BREAKthrough
+Pokemon - Stage 1
+Fairy
+Uncommon
+Ralts
+100
+XY-BREAKthrough
+Pokemon - Basic
+Fairy
+Common
+Flabébé
+101
+XY-BREAKthrough
+Pokemon - Basic
+Fairy
+Common
+Floette
+102
+XY-BREAKthrough
+Pokemon - Stage 1
+Fairy
+Uncommon
+Florges
+103
+XY-BREAKthrough
+Pokemon - Stage 2
+Fairy
+Rare
+Florges BREAK
+104
+XY-BREAKthrough
+Pokemon - BREAK
+Fairy
+Ultra Rare
+Spritzee
+105
+XY-BREAKthrough
+Pokemon - Basic
+Fairy
+Common
+Aromatisse
+106
+XY-BREAKthrough
+Pokemon - Stage 1
+Fairy
+Rare
+Xerneas
+107
+XY-BREAKthrough
+Pokemon - Basic
+Fairy
+Rare Holo
+Axew
+108
+XY-BREAKthrough
+Pokemon - Basic
+Dragon
+Common
+Axew
+109
+XY-BREAKthrough
+Pokemon - Basic
+Dragon
+Common
+Fraxure
+110
+XY-BREAKthrough
+Pokemon - Stage 1
+Dragon
+Uncommon
+Haxorus
+111
+XY-BREAKthrough
+Pokemon - Stage 2
+Dragon
+Rare Holo
+Noivern
+112
+XY-BREAKthrough
+Pokemon - Stage 1
+Dragon
+Rare
+Noivern BREAK
+113
+XY-BREAKthrough
+Pokemon - BREAK
+Dragon
+Ultra Rare
+Meowth
+114
+XY-BREAKthrough
+Pokemon - Basic
+Colorless
+Common
+Doduo
+115
+XY-BREAKthrough
+Pokemon - Basic
+Colorless
+Common
+Doduo
+116
+XY-BREAKthrough
+Pokemon - Basic
+Colorless
+Common
+Dodrio
+117
+XY-BREAKthrough
+Pokemon - Stage 1
+Colorless
+Rare
+Snorlax
+118
+XY-BREAKthrough
+Pokemon - Basic
+Colorless
+Uncommon
+Hoothoot
+119
+XY-BREAKthrough
+Pokemon - Basic
+Colorless
+Common
+Noctowl
+120
+XY-BREAKthrough
+Pokemon - Stage 1
+Colorless
+Rare
+Teddiursa
+121
+XY-BREAKthrough
+Pokemon - Basic
+Colorless
+Common
+Ursaring
+122
+XY-BREAKthrough
+Pokemon - Stage 1
+Colorless
+Uncommon
+Smeargle
+123
+XY-BREAKthrough
+Pokemon - Basic
+Colorless
+Rare
+Swablu
+124
+XY-BREAKthrough
+Pokemon - Basic
+Colorless
+Common
+Starly
+125
+XY-BREAKthrough
+Pokemon - Basic
+Colorless
+Common
+Staravia
+126
+XY-BREAKthrough
+Pokemon - Stage 1
+Colorless
+Uncommon
+Staraptor
+127
+XY-BREAKthrough
+Pokemon - Stage 2
+Colorless
+Rare
+Chatot
+128
+XY-BREAKthrough
+Pokemon - Basic
+Colorless
+Rare
+Rufflet
+129
+XY-BREAKthrough
+Pokemon - Basic
+Colorless
+Common
+Braviary
+130
+XY-BREAKthrough
+Pokemon - Stage 1
+Colorless
+Rare
+Noibat
+131
+XY-BREAKthrough
+Pokemon - Basic
+Colorless
+Common
+Noibat
+132
+XY-BREAKthrough
+Pokemon - Basic
+Colorless
+Common
+Assault Vest
+133
+XY-BREAKthrough
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Brigette
+134
+XY-BREAKthrough
+Trainer - Supporter
+n/a
+Uncommon
+Buddy-Buddy Rescue
+135
+XY-BREAKthrough
+Trainer - Item
+n/a
+Uncommon
+Fisherman
+136
+XY-BREAKthrough
+Trainer - Supporter
+n/a
+Uncommon
+Float Stone
+137
+XY-BREAKthrough
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Giovannis Scheme
+138
+XY-BREAKthrough
+Trainer - Supporter
+n/a
+Uncommon
+Glalie Spirit Link
+139
+XY-BREAKthrough
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Heavy Ball
+140
+XY-BREAKthrough
+Trainer - Item
+n/a
+Uncommon
+Heavy Boots
+141
+XY-BREAKthrough
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Houndoom Spirit Link
+142
+XY-BREAKthrough
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Judge
+143
+XY-BREAKthrough
+Trainer - Supporter
+n/a
+Uncommon
+Mewtwo Spirit Link
+144
+XY-BREAKthrough
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Parallel City
+145
+XY-BREAKthrough
+Trainer - Stadium
+n/a
+Uncommon
+Professors Letter
+146
+XY-BREAKthrough
+Trainer - Item
+n/a
+Uncommon
+Reserved Ticket
+147
+XY-BREAKthrough
+Trainer - Item
+n/a
+Uncommon
+Skyla
+148
+XY-BREAKthrough
+Trainer - Supporter
+n/a
+Uncommon
+Super Rod
+149
+XY-BREAKthrough
+Trainer - Item
+n/a
+Uncommon
+Town Map
+150
+XY-BREAKthrough
+Trainer - Item
+n/a
+Uncommon
+Burning Energy
+151
+XY-BREAKthrough
+Energy - Special Energy
+n/a
+Uncommon
+Rainbow Energy
+152
+XY-BREAKthrough
+Energy - Special Energy
+n/a
+Uncommon
+Houndoom-EX
+153
+XY-BREAKthrough
+Pokemon - Basic
+Fire
+Ultra Rare
+M Houndoom-EX
+154
+XY-BREAKthrough
+Pokemon - Mega
+Fire
+Ultra Rare
+Glalie-EX
+155
+XY-BREAKthrough
+Pokemon - Basic
+Water
+Ultra Rare
+M Glalie-EX
+156
+XY-BREAKthrough
+Pokemon - Mega
+Water
+Ultra Rare
+Mewtwo-EX
+157
+XY-BREAKthrough
+Pokemon - Basic
+Psychic
+Ultra Rare
+Mewtwo-EX
+158
+XY-BREAKthrough
+Pokemon - Basic
+Psychic
+Ultra Rare
+M Mewtwo-EX
+159
+XY-BREAKthrough
+Pokemon - Mega
+Psychic
+Ultra Rare
+M Mewtwo-EX
+160
+XY-BREAKthrough
+Pokemon - Mega
+Psychic
+Ultra Rare
+Brigette
+161
+XY-BREAKthrough
+Trainer - Supporter
+n/a
+Ultra Rare
+Giovannis Scheme
+162
+XY-BREAKthrough
+Trainer - Supporter
+n/a
+Ultra Rare
+Mewtwo-EX
+163
+XY-BREAKthrough
+Pokemon - Basic
+Psychic
+Secret Rare
+Mewtwo-EX
+164
+XY-BREAKthrough
+Pokemon - Basic
+Psychic
+Secret Rare

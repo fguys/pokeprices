@@ -1,0 +1,696 @@
+Tangela
+1
+XY-Steam Siege
+Pokemon - Basic
+Grass
+Common
+Tangrowth
+2
+XY-Steam Siege
+Pokemon - Stage 1
+Grass
+Uncommon
+Hoppip
+3
+XY-Steam Siege
+Pokemon - Basic
+Grass
+Common
+Skiploom
+4
+XY-Steam Siege
+Pokemon - Stage 1
+Grass
+Uncommon
+Jumpluff
+5
+XY-Steam Siege
+Pokemon - Stage 2
+Grass
+Rare
+Yanma
+6
+XY-Steam Siege
+Pokemon - Basic
+Grass
+Common
+Yanmega
+7
+XY-Steam Siege
+Pokemon - Stage 1
+Grass
+Rare
+Yanmega BREAK
+8
+XY-Steam Siege
+Pokemon - BREAK
+Grass
+Ultra Rare
+Seedot
+9
+XY-Steam Siege
+Pokemon - Basic
+Grass
+Common
+Nuzleaf
+10
+XY-Steam Siege
+Pokemon - Stage 1
+Grass
+Uncommon
+Shiftry
+11
+XY-Steam Siege
+Pokemon - Stage 2
+Darkness, Grass
+Rare Holo
+Foongus
+12
+XY-Steam Siege
+Pokemon - Basic
+Grass
+Common
+Amoonguss
+13
+XY-Steam Siege
+Pokemon - Stage 1
+Grass
+Rare
+Larvesta
+14
+XY-Steam Siege
+Pokemon - Basic
+Grass
+Common
+Volcarona
+15
+XY-Steam Siege
+Pokemon - Stage 1
+Fire, Grass
+Rare
+Ponyta
+16
+XY-Steam Siege
+Pokemon - Basic
+Fire
+Common
+Rapidash
+17
+XY-Steam Siege
+Pokemon - Stage 1
+Fire
+Uncommon
+Chimchar
+18
+XY-Steam Siege
+Pokemon - Basic
+Fire
+Common
+Monferno
+19
+XY-Steam Siege
+Pokemon - Stage 1
+Fire
+Uncommon
+Infernape
+20
+XY-Steam Siege
+Pokemon - Stage 2
+Fire
+Rare Holo
+Talonflame BREAK
+21
+XY-Steam Siege
+Pokemon - BREAK
+Fire
+Ultra Rare
+Litleo
+22
+XY-Steam Siege
+Pokemon - Basic
+Fire
+Common
+Pyroar
+23
+XY-Steam Siege
+Pokemon - Stage 1
+Fire
+Rare
+Pyroar BREAK
+24
+XY-Steam Siege
+Pokemon - BREAK
+Fire
+Ultra Rare
+Volcanion
+25
+XY-Steam Siege
+Pokemon - Basic
+Fire
+Rare
+Volcanion-EX
+26
+XY-Steam Siege
+Pokemon - Basic
+Fire, Water
+Ultra Rare
+Mantine
+27
+XY-Steam Siege
+Pokemon - Basic
+Water
+Common
+Shellos
+28
+XY-Steam Siege
+Pokemon - Basic
+Water
+Common
+Gastrodon
+29
+XY-Steam Siege
+Pokemon - Stage 1
+Water
+Rare
+Oshawott
+30
+XY-Steam Siege
+Pokemon - Basic
+Water
+Common
+Dewott
+31
+XY-Steam Siege
+Pokemon - Stage 1
+Water
+Uncommon
+Samurott
+32
+XY-Steam Siege
+Pokemon - Stage 2
+Water
+Rare
+Clauncher
+33
+XY-Steam Siege
+Pokemon - Basic
+Water
+Common
+Clawitzer
+34
+XY-Steam Siege
+Pokemon - Stage 1
+Water
+Rare
+Clawitzer BREAK
+35
+XY-Steam Siege
+Pokemon - BREAK
+Water
+Ultra Rare
+Bergmite
+36
+XY-Steam Siege
+Pokemon - Basic
+Water
+Common
+Avalugg
+37
+XY-Steam Siege
+Pokemon - Stage 1
+Water
+Rare
+Mareep
+38
+XY-Steam Siege
+Pokemon - Basic
+Lightning
+Common
+Flaaffy
+39
+XY-Steam Siege
+Pokemon - Stage 1
+Lightning
+Uncommon
+Ampharos
+40
+XY-Steam Siege
+Pokemon - Stage 2
+Lightning
+Rare Holo
+Joltik
+41
+XY-Steam Siege
+Pokemon - Basic
+Lightning
+Common
+Galvantula
+42
+XY-Steam Siege
+Pokemon - Stage 1
+Grass, Lightning
+Rare
+Nidoran Male
+43
+XY-Steam Siege
+Pokemon - Basic
+Psychic
+Common
+Nidorino
+44
+XY-Steam Siege
+Pokemon - Stage 1
+Psychic
+Uncommon
+Nidoking
+45
+XY-Steam Siege
+Pokemon - Stage 2
+Psychic
+Rare
+Drifloon
+46
+XY-Steam Siege
+Pokemon - Basic
+Psychic
+Common
+Drifblim
+47
+XY-Steam Siege
+Pokemon - Stage 1
+Psychic
+Uncommon
+Litwick
+48
+XY-Steam Siege
+Pokemon - Basic
+Psychic
+Common
+Lampent
+49
+XY-Steam Siege
+Pokemon - Stage 1
+Psychic
+Uncommon
+Chandelure
+50
+XY-Steam Siege
+Pokemon - Stage 2
+Psychic
+Rare Holo
+Hoopa
+51
+XY-Steam Siege
+Pokemon - Basic
+Psychic
+Rare
+Mankey
+52
+XY-Steam Siege
+Pokemon - Basic
+Fighting
+Common
+Primeape
+53
+XY-Steam Siege
+Pokemon - Stage 1
+Fighting
+Rare
+Nosepass
+54
+XY-Steam Siege
+Pokemon - Basic
+Fighting
+Common
+Probopass
+55
+XY-Steam Siege
+Pokemon - Stage 1
+Fighting
+Rare
+Anorith
+56
+XY-Steam Siege
+Pokemon - Restored
+Fighting
+Uncommon
+Armaldo
+57
+XY-Steam Siege
+Pokemon - Stage 1
+Fighting
+Rare
+Croagunk
+58
+XY-Steam Siege
+Pokemon - Basic
+Fighting
+Common
+Toxicroak
+59
+XY-Steam Siege
+Pokemon - Stage 1
+Fighting
+Rare
+Sneasel
+60
+XY-Steam Siege
+Pokemon - Basic
+Darkness
+Common
+Weavile
+61
+XY-Steam Siege
+Pokemon - Stage 1
+Darkness
+Rare
+Spiritomb
+62
+XY-Steam Siege
+Pokemon - Basic
+Darkness
+Rare
+Pawniard
+63
+XY-Steam Siege
+Pokemon - Basic
+Darkness
+Common
+Bisharp
+64
+XY-Steam Siege
+Pokemon - Stage 1
+Darkness, Metal
+Rare Holo
+Yveltal
+65
+XY-Steam Siege
+Pokemon - Basic
+Darkness
+Rare Holo
+Yveltal BREAK
+66
+XY-Steam Siege
+Pokemon - BREAK
+Darkness
+Ultra Rare
+Steelix-EX
+67
+XY-Steam Siege
+Pokemon - Basic
+Metal
+Ultra Rare
+M Steelix-EX
+68
+XY-Steam Siege
+Pokemon - Mega
+Fighting, Metal
+Ultra Rare
+Shieldon
+69
+XY-Steam Siege
+Pokemon - Restored
+Metal
+Uncommon
+Bastiodon
+70
+XY-Steam Siege
+Pokemon - Stage 1
+Metal
+Rare
+Klink
+71
+XY-Steam Siege
+Pokemon - Basic
+Metal
+Common
+Klang
+72
+XY-Steam Siege
+Pokemon - Stage 1
+Metal
+Uncommon
+Klinklang
+73
+XY-Steam Siege
+Pokemon - Stage 2
+Metal
+Rare Holo
+Cobalion
+74
+XY-Steam Siege
+Pokemon - Basic
+Metal
+Rare
+Magearna-EX
+75
+XY-Steam Siege
+Pokemon - Basic
+Metal
+Ultra Rare
+Marill
+76
+XY-Steam Siege
+Pokemon - Basic
+Fairy
+Common
+Azumarill
+77
+XY-Steam Siege
+Pokemon - Stage 1
+Fairy, Water
+Uncommon
+Gardevoir-EX
+78
+XY-Steam Siege
+Pokemon - Basic
+Fairy
+Ultra Rare
+M Gardevoir-EX
+79
+XY-Steam Siege
+Pokemon - Mega
+Fairy, Psychic
+Ultra Rare
+Klefki
+80
+XY-Steam Siege
+Pokemon - Basic
+Fairy
+Uncommon
+Xerneas
+81
+XY-Steam Siege
+Pokemon - Basic
+Fairy
+Rare Holo
+Xerneas BREAK
+82
+XY-Steam Siege
+Pokemon - BREAK
+Fairy
+Ultra Rare
+Druddigon
+83
+XY-Steam Siege
+Pokemon - Basic
+Dragon
+Rare
+Deino
+84
+XY-Steam Siege
+Pokemon - Basic
+Dragon
+Common
+Zweilous
+85
+XY-Steam Siege
+Pokemon - Stage 1
+Dragon
+Uncommon
+Hydreigon
+86
+XY-Steam Siege
+Pokemon - Stage 2
+Dragon
+Rare Holo
+Hydreigon BREAK
+87
+XY-Steam Siege
+Pokemon - BREAK
+Dragon
+Ultra Rare
+Meowth
+88
+XY-Steam Siege
+Pokemon - Basic
+Colorless
+Common
+Persian
+89
+XY-Steam Siege
+Pokemon - Stage 1
+Colorless
+Uncommon
+Aipom
+90
+XY-Steam Siege
+Pokemon - Basic
+Colorless
+Common
+Ambipom
+91
+XY-Steam Siege
+Pokemon - Stage 1
+Colorless
+Uncommon
+Rufflet
+92
+XY-Steam Siege
+Pokemon - Basic
+Colorless
+Common
+Braviary
+93
+XY-Steam Siege
+Pokemon - Stage 1
+Colorless
+Uncommon
+Fletchling
+94
+XY-Steam Siege
+Pokemon - Basic
+Colorless
+Common
+Fletchinder
+95
+XY-Steam Siege
+Pokemon - Stage 1
+Colorless
+Uncommon
+Talonflame
+96
+XY-Steam Siege
+Pokemon - Stage 2
+Colorless
+Rare
+Hawlucha
+97
+XY-Steam Siege
+Pokemon - Basic
+Colorless
+Uncommon
+Armor Fossil Shieldon
+98
+XY-Steam Siege
+Trainer - Item
+n/a
+Uncommon
+Captivating Poké Puff
+99
+XY-Steam Siege
+Trainer - Item
+n/a
+Uncommon
+Claw Fossil Anorith
+100
+XY-Steam Siege
+Trainer - Item
+n/a
+Uncommon
+Gardevoir Spirit Link
+101
+XY-Steam Siege
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Greedy Dice
+102
+XY-Steam Siege
+Trainer - Item
+n/a
+Uncommon
+Ninja Boy
+103
+XY-Steam Siege
+Trainer - Supporter
+n/a
+Uncommon
+Pokemon Ranger
+104
+XY-Steam Siege
+Trainer - Supporter
+n/a
+Uncommon
+Special Charge
+105
+XY-Steam Siege
+Trainer - Item
+n/a
+Uncommon
+Steelix Spirit Link
+106
+XY-Steam Siege
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Volcanion-EX
+107
+XY-Steam Siege
+Pokemon - Basic
+Fire, Water
+Ultra Rare
+Steelix-EX
+108
+XY-Steam Siege
+Pokemon - Basic
+Metal
+Ultra Rare
+M Steelix-EX
+109
+XY-Steam Siege
+Pokemon - Mega
+Fighting, Metal
+Ultra Rare
+Magearna-EX
+110
+XY-Steam Siege
+Pokemon - Basic
+Metal
+Ultra Rare
+Gardevoir-EX
+111
+XY-Steam Siege
+Pokemon - Basic
+Fairy
+Ultra Rare
+M Gardevoir-EX
+112
+XY-Steam Siege
+Pokemon - Mega
+Fairy, Psychic
+Ultra Rare
+Pokemon Ranger
+113
+XY-Steam Siege
+Trainer - Supporter
+n/a
+Ultra Rare
+Professor Sycamore
+114
+XY-Steam Siege
+Trainer - Supporter
+n/a
+Ultra Rare
+Volcanion-EX
+115
+XY-Steam Siege
+Pokemon - Basic
+Fire, Water
+Secret Rare
+Gardevoir-EX
+116
+XY-Steam Siege
+Pokemon - Basic
+Fairy
+Secret Rare

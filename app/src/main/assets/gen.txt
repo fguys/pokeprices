@@ -1,0 +1,690 @@
+Venusaur-EX
+1
+Generations
+Pokemon - Basic
+Grass
+Ultra Rare
+M Venusaur-EX
+2
+Generations
+Pokemon - Mega
+Grass
+Ultra Rare
+Caterpie
+3
+Generations
+Pokemon - Basic
+Grass
+Common
+Metapod
+4
+Generations
+Pokemon - Stage 1
+Grass
+Uncommon
+Butterfree
+5
+Generations
+Pokemon - Stage 2
+Grass
+Rare Holo
+Paras
+6
+Generations
+Pokemon - Basic
+Grass
+Common
+Parasect
+7
+Generations
+Pokemon - Stage 1
+Grass
+Rare
+Tangela
+8
+Generations
+Pokemon - Basic
+Grass
+Common
+Pinsir
+9
+Generations
+Pokemon - Basic
+Grass
+Rare
+Leafeon-EX
+10
+Generations
+Pokemon - Basic
+Grass
+Ultra Rare
+Charizard-EX
+11
+Generations
+Pokemon - Basic
+Fire
+Ultra Rare
+M Charizard-EX
+12
+Generations
+Pokemon - Mega
+Fire
+Ultra Rare
+Ninetales-EX
+13
+Generations
+Pokemon - Basic
+Fire
+Ultra Rare
+Ponyta
+14
+Generations
+Pokemon - Basic
+Fire
+Common
+Rapidash
+15
+Generations
+Pokemon - Stage 1
+Fire
+Rare
+Magmar
+16
+Generations
+Pokemon - Basic
+Fire
+Common
+Blastoise-EX
+17
+Generations
+Pokemon - Basic
+Water
+Ultra Rare
+M Blastoise-EX
+18
+Generations
+Pokemon - Mega
+Water
+Ultra Rare
+Shellder
+19
+Generations
+Pokemon - Basic
+Water
+Common
+Cloyster
+20
+Generations
+Pokemon - Stage 1
+Water
+Uncommon
+Krabby
+21
+Generations
+Pokemon - Basic
+Water
+Common
+Magikarp
+22
+Generations
+Pokemon - Basic
+Water
+Common
+Gyarados
+23
+Generations
+Pokemon - Stage 1
+Water
+Rare
+Vaporeon-EX
+24
+Generations
+Pokemon - Basic
+Water
+Ultra Rare
+Articuno
+25
+Generations
+Pokemon - Basic
+Water
+Rare Holo
+Pikachu
+26
+Generations
+Pokemon - Basic
+Lightning
+Common
+Raichu
+27
+Generations
+Pokemon - Stage 1
+Lightning
+Rare Holo
+Jolteon-EX
+28
+Generations
+Pokemon - Basic
+Lightning
+Ultra Rare
+Zapdos
+29
+Generations
+Pokemon - Basic
+Lightning
+Rare Holo
+Zubat
+30
+Generations
+Pokemon - Basic
+Psychic
+Common
+Golbat
+31
+Generations
+Pokemon - Stage 1
+Psychic
+Uncommon
+Slowpoke
+32
+Generations
+Pokemon - Basic
+Psychic
+Common
+Gastly
+33
+Generations
+Pokemon - Basic
+Psychic
+Common
+Haunter
+34
+Generations
+Pokemon - Stage 1
+Psychic
+Uncommon
+Gengar
+35
+Generations
+Pokemon - Stage 2
+Psychic
+Rare Holo
+Jynx
+36
+Generations
+Pokemon - Basic
+Psychic
+Rare
+Meowstic-EX
+37
+Generations
+Pokemon - Basic
+Psychic
+Ultra Rare
+Diglett
+38
+Generations
+Pokemon - Basic
+Fighting
+Common
+Dugtrio
+39
+Generations
+Pokemon - Stage 1
+Fighting
+Rare
+Machop
+40
+Generations
+Pokemon - Basic
+Fighting
+Common
+Machoke
+41
+Generations
+Pokemon - Stage 1
+Fighting
+Uncommon
+Machamp
+42
+Generations
+Pokemon - Stage 2
+Fighting
+Rare Holo
+Geodude
+43
+Generations
+Pokemon - Basic
+Fighting
+Common
+Graveler
+44
+Generations
+Pokemon - Stage 1
+Fighting
+Uncommon
+Golem
+45
+Generations
+Pokemon - Stage 2
+Fighting
+Rare Holo
+Golem-EX
+46
+Generations
+Pokemon - Basic
+Fighting
+Ultra Rare
+Hitmonlee
+47
+Generations
+Pokemon - Basic
+Fighting
+Rare
+Hitmonchan
+48
+Generations
+Pokemon - Basic
+Fighting
+Rare
+Rhyhorn
+49
+Generations
+Pokemon - Basic
+Fighting
+Common
+Clefairy
+50
+Generations
+Pokemon - Basic
+Fairy
+Common
+Clefable
+51
+Generations
+Pokemon - Stage 1
+Fairy
+Uncommon
+Mr. Mime
+52
+Generations
+Pokemon - Basic
+Fairy
+Uncommon
+Meowth
+53
+Generations
+Pokemon - Basic
+Colorless
+Common
+Persian
+54
+Generations
+Pokemon - Stage 1
+Colorless
+Uncommon
+Doduo
+55
+Generations
+Pokemon - Basic
+Colorless
+Common
+Dodrio
+56
+Generations
+Pokemon - Stage 1
+Colorless
+Rare
+Tauros
+57
+Generations
+Pokemon - Basic
+Colorless
+Rare
+Snorlax
+58
+Generations
+Pokemon - Basic
+Colorless
+Rare
+Clemont
+59
+Generations
+Trainer - Supporter
+n/a
+Uncommon
+Crushing Hammer
+60
+Generations
+Trainer - Item
+n/a
+Uncommon
+Energy Switch
+61
+Generations
+Trainer - Item
+n/a
+Uncommon
+Evosoda
+62
+Generations
+Trainer - Item
+n/a
+Uncommon
+Imakuni?
+63
+Generations
+Trainer - Supporter
+n/a
+Uncommon
+Maintenance
+64
+Generations
+Trainer - Item
+n/a
+Uncommon
+Max Revive
+65
+Generations
+Trainer - Item
+n/a
+Uncommon
+Olympia
+66
+Generations
+Trainer - Supporter
+n/a
+Uncommon
+Poké Ball
+67
+Generations
+Trainer - Item
+n/a
+Uncommon
+Pokemon Center Lady
+68
+Generations
+Trainer - Supporter
+n/a
+Uncommon
+Pokemon Fan Club
+69
+Generations
+Trainer - Supporter
+n/a
+Uncommon
+Revitalizer
+70
+Generations
+Trainer - Item
+n/a
+Uncommon
+Red Card
+71
+Generations
+Trainer - Item
+n/a
+Uncommon
+Shauna
+72
+Generations
+Trainer - Supporter
+n/a
+Uncommon
+Team Flare Grunt
+73
+Generations
+Trainer - Supporter
+n/a
+Uncommon
+Double Colorless Energy
+74
+Generations
+Energy - Special Energy
+n/a
+Uncommon
+Grass Energy
+75
+Generations
+Energy - Basic Energy
+n/a
+Common
+Fire Energy
+76
+Generations
+Energy - Basic Energy
+n/a
+Common
+Water Energy
+77
+Generations
+Energy - Basic Energy
+n/a
+Common
+Lightning Energy
+78
+Generations
+Energy - Basic Energy
+n/a
+Common
+Psychic Energy
+79
+Generations
+Energy - Basic Energy
+n/a
+Common
+Fighting Energy
+80
+Generations
+Energy - Basic Energy
+n/a
+Common
+Darkness Energy
+81
+Generations
+Energy - Basic Energy
+n/a
+Common
+Metal Energy
+82
+Generations
+Energy - Basic Energy
+n/a
+Common
+Fairy Energy
+83
+Generations
+Energy - Basic Energy
+n/a
+Common
+Chikorita
+RC1
+Generations
+Pokemon - Basic
+Grass
+Common
+Shroomish
+RC2
+Generations
+Pokemon - Basic
+Grass
+Common
+Charmander
+RC3
+Generations
+Pokemon - Basic
+Fire
+Common
+Charmeleon
+RC4
+Generations
+Pokemon - Stage 1
+Fire
+Common
+Charizard
+RC5
+Generations
+Pokemon - Stage 2
+Fire
+Uncommon
+Flareon-EX
+RC6
+Generations
+Pokemon - Basic
+Fire
+Ultra Rare
+Snorunt
+RC7
+Generations
+Pokemon - Basic
+Water
+Common
+Froslass
+RC8
+Generations
+Pokemon - Stage 1
+Water
+Uncommon
+Raichu
+RC9
+Generations
+Pokemon - Stage 1
+Lightning
+Common
+Dedenne
+RC10
+Generations
+Pokemon - Basic
+Lightning
+Uncommon
+Wobbuffet
+RC11
+Generations
+Pokemon - Basic
+Psychic
+Common
+Gulpin
+RC12
+Generations
+Pokemon - Basic
+Psychic
+Common
+Jirachi
+RC13
+Generations
+Pokemon - Basic
+Psychic
+Uncommon
+Espurr
+RC14
+Generations
+Pokemon - Basic
+Psychic
+Common
+Meowstic
+RC15
+Generations
+Pokemon - Stage 1
+Psychic
+Uncommon
+Yveltal
+RC16
+Generations
+Pokemon - Basic
+Darkness
+Uncommon
+Flabébé
+RC17
+Generations
+Pokemon - Basic
+Fairy
+Common
+Floette
+RC18
+Generations
+Pokemon - Stage 1
+Fairy
+Uncommon
+Swirlix
+RC19
+Generations
+Pokemon - Basic
+Fairy
+Uncommon
+Slurpuff
+RC20
+Generations
+Pokemon - Stage 1
+Fairy
+Uncommon
+Sylveon-EX
+RC21
+Generations
+Pokemon - Basic
+Fairy
+Ultra Rare
+Diancie
+RC22
+Generations
+Pokemon - Basic
+Fairy
+Uncommon
+Swablu
+RC23
+Generations
+Pokemon - Basic
+Colorless
+Common
+Altaria
+RC24
+Generations
+Pokemon - Stage 1
+Colorless
+Uncommon
+Fletchling
+RC25
+Generations
+Pokemon - Basic
+Colorless
+Common
+Floral Crown
+RC26
+Generations
+Trainer - Item - Pokemon Tool
+n/a
+Common
+Wally
+RC27
+Generations
+Trainer - Supporter
+n/a
+Uncommon
+Flareon-EX
+RC28
+Generations
+Pokemon - Basic
+Fire
+Ultra Rare
+Pikachu
+RC29
+Generations
+Pokemon - Basic
+Lightning
+Ultra Rare
+Gardevoir-EX
+RC30
+Generations
+Pokemon - Basic
+Fairy
+Ultra Rare
+M Gardevoir-EX
+RC31
+Generations
+Pokemon - Mega
+Fairy
+Ultra Rare
+Sylveon-EX
+RC32
+Generations
+Pokemon - Basic
+Fairy
+Ultra Rare

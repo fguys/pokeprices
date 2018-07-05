@@ -1,0 +1,738 @@
+Chikorita
+1
+XY-BREAKpoint
+Pokemon - Basic
+Grass
+Common
+Bayleef
+2
+XY-BREAKpoint
+Pokemon - Stage 1
+Grass
+Uncommon
+Meganium
+3
+XY-BREAKpoint
+Pokemon - Stage 2
+Grass
+Rare Holo
+Seedot
+4
+XY-BREAKpoint
+Pokemon - Basic
+Grass
+Common
+Kricketot
+5
+XY-BREAKpoint
+Pokemon - Basic
+Grass
+Common
+Kricketune
+6
+XY-BREAKpoint
+Pokemon - Stage 1
+Grass
+Uncommon
+Petilil
+7
+XY-BREAKpoint
+Pokemon - Basic
+Grass
+Common
+Lilligant
+8
+XY-BREAKpoint
+Pokemon - Stage 1
+Grass
+Rare
+Durant
+9
+XY-BREAKpoint
+Pokemon - Basic
+Grass
+Uncommon
+Growlithe
+10
+XY-BREAKpoint
+Pokemon - Basic
+Fire
+Common
+Arcanine
+11
+XY-BREAKpoint
+Pokemon - Stage 1
+Fire
+Uncommon
+Numel
+12
+XY-BREAKpoint
+Pokemon - Basic
+Fire
+Common
+Camerupt
+13
+XY-BREAKpoint
+Pokemon - Stage 1
+Fire
+Rare
+Emboar-EX
+14
+XY-BREAKpoint
+Pokemon - Basic
+Fire
+Ultra Rare
+Heatmor
+15
+XY-BREAKpoint
+Pokemon - Basic
+Fire
+Uncommon
+Psyduck
+16
+XY-BREAKpoint
+Pokemon - Basic
+Water
+Common
+Golduck
+17
+XY-BREAKpoint
+Pokemon - Stage 1
+Water
+Rare
+Golduck BREAK
+18
+XY-BREAKpoint
+Pokemon - BREAK
+Water
+Ultra Rare
+Slowpoke
+19
+XY-BREAKpoint
+Pokemon - Basic
+Water
+Common
+Slowbro
+20
+XY-BREAKpoint
+Pokemon - Stage 1
+Water
+Uncommon
+Slowking
+21
+XY-BREAKpoint
+Pokemon - Stage 1
+Water
+Rare Holo
+Shellder
+22
+XY-BREAKpoint
+Pokemon - Basic
+Water
+Common
+Shellder
+23
+XY-BREAKpoint
+Pokemon - Basic
+Water
+Common
+Cloyster
+24
+XY-BREAKpoint
+Pokemon - Stage 1
+Water
+Uncommon
+Staryu
+25
+XY-BREAKpoint
+Pokemon - Basic
+Water
+Common
+Gyarados-EX
+26
+XY-BREAKpoint
+Pokemon - Basic
+Water
+Ultra Rare
+M Gyarados-EX
+27
+XY-BREAKpoint
+Pokemon - Mega
+Water
+Ultra Rare
+Lapras
+28
+XY-BREAKpoint
+Pokemon - Basic
+Water
+Uncommon
+Corsola
+29
+XY-BREAKpoint
+Pokemon - Basic
+Water
+Common
+Suicune
+30
+XY-BREAKpoint
+Pokemon - Basic
+Water
+Rare Holo
+Palkia-EX
+31
+XY-BREAKpoint
+Pokemon - Basic
+Water
+Ultra Rare
+Manaphy-EX
+32
+XY-BREAKpoint
+Pokemon - Basic
+Water
+Ultra Rare
+Tympole
+33
+XY-BREAKpoint
+Pokemon - Basic
+Water
+Common
+Palpitoad
+34
+XY-BREAKpoint
+Pokemon - Stage 1
+Water
+Uncommon
+Seismitoad
+35
+XY-BREAKpoint
+Pokemon - Stage 2
+Water
+Rare
+Ducklett
+36
+XY-BREAKpoint
+Pokemon - Basic
+Water
+Common
+Swanna
+37
+XY-BREAKpoint
+Pokemon - Stage 1
+Water
+Uncommon
+Froakie
+38
+XY-BREAKpoint
+Pokemon - Basic
+Water
+Common
+Frogadier
+39
+XY-BREAKpoint
+Pokemon - Stage 1
+Water
+Uncommon
+Greninja
+40
+XY-BREAKpoint
+Pokemon - Stage 2
+Water
+Rare
+Greninja BREAK
+41
+XY-BREAKpoint
+Pokemon - BREAK
+Water
+Ultra Rare
+Electabuzz
+42
+XY-BREAKpoint
+Pokemon - Basic
+Lightning
+Common
+Electivire
+43
+XY-BREAKpoint
+Pokemon - Stage 1
+Lightning
+Uncommon
+Shinx
+44
+XY-BREAKpoint
+Pokemon - Basic
+Lightning
+Common
+Luxio
+45
+XY-BREAKpoint
+Pokemon - Stage 1
+Lightning
+Uncommon
+Luxray
+46
+XY-BREAKpoint
+Pokemon - Stage 2
+Lightning
+Rare
+Luxray BREAK
+47
+XY-BREAKpoint
+Pokemon - BREAK
+Lightning
+Ultra Rare
+Blitzle
+48
+XY-BREAKpoint
+Pokemon - Basic
+Lightning
+Common
+Zebstrika
+49
+XY-BREAKpoint
+Pokemon - Stage 1
+Lightning
+Rare
+Drowzee
+50
+XY-BREAKpoint
+Pokemon - Basic
+Psychic
+Common
+Hypno
+51
+XY-BREAKpoint
+Pokemon - Stage 1
+Psychic
+Rare
+Espeon-EX
+52
+XY-BREAKpoint
+Pokemon - Basic
+Psychic
+Ultra Rare
+Skorupi
+53
+XY-BREAKpoint
+Pokemon - Basic
+Psychic
+Common
+Drapion
+54
+XY-BREAKpoint
+Pokemon - Stage 1
+Psychic
+Rare
+Sigilyph
+55
+XY-BREAKpoint
+Pokemon - Basic
+Psychic
+Uncommon
+Trubbish
+56
+XY-BREAKpoint
+Pokemon - Basic
+Psychic
+Common
+Garbodor
+57
+XY-BREAKpoint
+Pokemon - Stage 1
+Psychic
+Rare Holo
+Espurr
+58
+XY-BREAKpoint
+Pokemon - Basic
+Psychic
+Common
+Meowstic
+59
+XY-BREAKpoint
+Pokemon - Stage 1
+Psychic
+Rare
+Honedge
+60
+XY-BREAKpoint
+Pokemon - Basic
+Psychic
+Common
+Doublade
+61
+XY-BREAKpoint
+Pokemon - Stage 1
+Psychic
+Uncommon
+Aegislash
+62
+XY-BREAKpoint
+Pokemon - Stage 2
+Psychic
+Rare Holo
+Skrelp
+63
+XY-BREAKpoint
+Pokemon - Basic
+Psychic
+Common
+Phantump
+64
+XY-BREAKpoint
+Pokemon - Basic
+Psychic
+Common
+Trevenant
+65
+XY-BREAKpoint
+Pokemon - Stage 1
+Psychic
+Rare
+Trevenant BREAK
+66
+XY-BREAKpoint
+Pokemon - BREAK
+Psychic
+Ultra Rare
+Sudowoodo
+67
+XY-BREAKpoint
+Pokemon - Basic
+Fighting
+Uncommon
+Gible
+68
+XY-BREAKpoint
+Pokemon - Basic
+Fighting
+Common
+Gabite
+69
+XY-BREAKpoint
+Pokemon - Stage 1
+Fighting
+Uncommon
+Garchomp
+70
+XY-BREAKpoint
+Pokemon - Stage 2
+Fighting
+Rare Holo
+Pancham
+71
+XY-BREAKpoint
+Pokemon - Basic
+Fighting
+Common
+Nuzleaf
+72
+XY-BREAKpoint
+Pokemon - Stage 1
+Darkness
+Uncommon
+Shiftry
+73
+XY-BREAKpoint
+Pokemon - Stage 2
+Darkness
+Rare
+Darkrai-EX
+74
+XY-BREAKpoint
+Pokemon - Basic
+Darkness
+Ultra Rare
+Pangoro
+75
+XY-BREAKpoint
+Pokemon - Stage 1
+Darkness
+Rare
+Scizor-EX
+76
+XY-BREAKpoint
+Pokemon - Basic
+Metal
+Ultra Rare
+M Scizor-EX
+77
+XY-BREAKpoint
+Pokemon - Mega
+Metal
+Ultra Rare
+Mawile
+78
+XY-BREAKpoint
+Pokemon - Basic
+Metal
+Uncommon
+Ferroseed
+79
+XY-BREAKpoint
+Pokemon - Basic
+Metal
+Common
+Ferrothorn
+80
+XY-BREAKpoint
+Pokemon - Stage 1
+Metal
+Rare
+Clefairy
+81
+XY-BREAKpoint
+Pokemon - Basic
+Fairy
+Common
+Clefable
+82
+XY-BREAKpoint
+Pokemon - Stage 1
+Fairy
+Rare
+Togekiss-EX
+83
+XY-BREAKpoint
+Pokemon - Basic
+Fairy
+Ultra Rare
+Spritzee
+84
+XY-BREAKpoint
+Pokemon - Basic
+Fairy
+Common
+Aromatisse
+85
+XY-BREAKpoint
+Pokemon - Stage 1
+Fairy
+Uncommon
+Dragalge
+86
+XY-BREAKpoint
+Pokemon - Stage 1
+Dragon
+Rare Holo
+Rattata
+87
+XY-BREAKpoint
+Pokemon - Basic
+Colorless
+Common
+Raticate
+88
+XY-BREAKpoint
+Pokemon - Stage 1
+Colorless
+Rare
+Raticate BREAK
+89
+XY-BREAKpoint
+Pokemon - BREAK
+Colorless
+Ultra Rare
+Dunsparce
+90
+XY-BREAKpoint
+Pokemon - Basic
+Colorless
+Uncommon
+Stantler
+91
+XY-BREAKpoint
+Pokemon - Basic
+Colorless
+Uncommon
+Ho-Oh-EX
+92
+XY-BREAKpoint
+Pokemon - Basic
+Colorless
+Ultra Rare
+Glameow
+93
+XY-BREAKpoint
+Pokemon - Basic
+Colorless
+Common
+Purugly
+94
+XY-BREAKpoint
+Pokemon - Stage 1
+Colorless
+Uncommon
+Furfrou
+95
+XY-BREAKpoint
+Pokemon - Basic
+Colorless
+Common
+All-Night Party
+96
+XY-BREAKpoint
+Trainer - Stadium
+n/a
+Uncommon
+Bursting Balloon
+97
+XY-BREAKpoint
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Delinquent
+98
+XY-BREAKpoint
+Trainer - Supporter
+n/a
+Uncommon
+Fighting Fury Belt
+99
+XY-BREAKpoint
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Great Ball
+100
+XY-BREAKpoint
+Trainer - Item
+n/a
+Uncommon
+Gyarados Spirit Link
+101
+XY-BREAKpoint
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Max Elixir
+102
+XY-BREAKpoint
+Trainer - Item
+n/a
+Uncommon
+Max Potion
+103
+XY-BREAKpoint
+Trainer - Item
+n/a
+Uncommon
+Mistys Determination
+104
+XY-BREAKpoint
+Trainer - Supporter
+n/a
+Uncommon
+Pokemon Catcher
+105
+XY-BREAKpoint
+Trainer - Item
+n/a
+Uncommon
+Potion
+106
+XY-BREAKpoint
+Trainer - Item
+n/a
+Uncommon
+Professor Sycamore
+107
+XY-BREAKpoint
+Trainer - Supporter
+n/a
+Uncommon
+Psychics Third Eye
+108
+XY-BREAKpoint
+Trainer - Supporter
+n/a
+Uncommon
+Puzzle of Time
+109
+XY-BREAKpoint
+Trainer - Item
+n/a
+Uncommon
+Reverse Valley
+110
+XY-BREAKpoint
+Trainer - Stadium
+n/a
+Uncommon
+Scizor Spirit Link
+111
+XY-BREAKpoint
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Tierno
+112
+XY-BREAKpoint
+Trainer - Supporter
+n/a
+Uncommon
+Splash Energy
+113
+XY-BREAKpoint
+Energy - Special Energy
+n/a
+Uncommon
+Gyarados-EX
+114
+XY-BREAKpoint
+Pokemon - Basic
+Water
+Ultra Rare
+M Gyarados-EX
+115
+XY-BREAKpoint
+Pokemon - Mega
+Water
+Ultra Rare
+Manaphy-EX
+116
+XY-BREAKpoint
+Pokemon - Basic
+Water
+Ultra Rare
+Espeon-EX
+117
+XY-BREAKpoint
+Pokemon - Basic
+Psychic
+Ultra Rare
+Darkrai-EX
+118
+XY-BREAKpoint
+Pokemon - Basic
+Darkness
+Ultra Rare
+Scizor-EX
+119
+XY-BREAKpoint
+Pokemon - Basic
+Metal
+Ultra Rare
+M Scizor-EX
+120
+XY-BREAKpoint
+Pokemon - Mega
+Metal
+Ultra Rare
+Ho-Oh-EX
+121
+XY-BREAKpoint
+Pokemon - Basic
+Colorless
+Ultra Rare
+Skyla
+122
+XY-BREAKpoint
+Trainer - Supporter
+n/a
+Ultra Rare
+Gyarados-EX
+123
+XY-BREAKpoint
+Pokemon - Basic
+Water
+Secret Rare

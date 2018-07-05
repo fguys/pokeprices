@@ -1,0 +1,600 @@
+Oddish
+1
+XY-Ancient Origins
+Pokemon - Basic
+Grass
+Common
+Gloom
+2
+XY-Ancient Origins
+Pokemon - Stage 1
+Grass
+Uncommon
+Vileplume
+3
+XY-Ancient Origins
+Pokemon - Stage 2
+Grass
+Rare
+Bellossom
+4
+XY-Ancient Origins
+Pokemon - Stage 2
+Grass
+Uncommon
+Spinarak
+5
+XY-Ancient Origins
+Pokemon - Basic
+Grass
+Common
+Ariados
+6
+XY-Ancient Origins
+Pokemon - Stage 1
+Grass
+Uncommon
+Sceptile-EX
+7
+XY-Ancient Origins
+Pokemon - Basic
+Grass
+Ultra Rare
+M Sceptile-EX
+8
+XY-Ancient Origins
+Pokemon - Mega
+Grass
+Ultra Rare
+Combee
+9
+XY-Ancient Origins
+Pokemon - Basic
+Grass
+Common
+Vespiquen
+10
+XY-Ancient Origins
+Pokemon - Stage 1
+Grass
+Uncommon
+Vespiquen
+11
+XY-Ancient Origins
+Pokemon - Stage 1
+Grass
+Rare
+Virizion
+12
+XY-Ancient Origins
+Pokemon - Basic
+Grass
+Rare Holo
+Flareon
+13
+XY-Ancient Origins
+Pokemon - Stage 1
+Fire
+Uncommon
+Entei
+14
+XY-Ancient Origins
+Pokemon - Basic
+Fire
+Rare
+Entei
+15
+XY-Ancient Origins
+Pokemon - Basic
+Fire
+Rare Holo
+Larvesta
+16
+XY-Ancient Origins
+Pokemon - Basic
+Fire
+Common
+Volcarona
+17
+XY-Ancient Origins
+Pokemon - Stage 1
+Fire
+Rare Holo
+Volcarona
+18
+XY-Ancient Origins
+Pokemon - Stage 1
+Fire
+Rare
+Magikarp
+19
+XY-Ancient Origins
+Pokemon - Basic
+Water
+Common
+Gyarados
+20
+XY-Ancient Origins
+Pokemon - Stage 1
+Water
+Rare
+Gyarados
+21
+XY-Ancient Origins
+Pokemon - Stage 1
+Water
+Rare Holo
+Vaporeon
+22
+XY-Ancient Origins
+Pokemon - Stage 1
+Water
+Uncommon
+Relicanth
+23
+XY-Ancient Origins
+Pokemon - Basic
+Water
+Common
+Regice
+24
+XY-Ancient Origins
+Pokemon - Basic
+Water
+Rare
+Kyurem-EX
+25
+XY-Ancient Origins
+Pokemon - Basic
+Water
+Ultra Rare
+Jolteon
+26
+XY-Ancient Origins
+Pokemon - Stage 1
+Lightning
+Rare Holo
+Ampharos-EX
+27
+XY-Ancient Origins
+Pokemon - Basic
+Lightning
+Ultra Rare
+M Ampharos-EX
+28
+XY-Ancient Origins
+Pokemon - Mega
+Lightning
+Ultra Rare
+Rotom
+29
+XY-Ancient Origins
+Pokemon - Basic
+Lightning
+Uncommon
+Unown
+30
+XY-Ancient Origins
+Pokemon - Basic
+Psychic
+Common
+Baltoy
+31
+XY-Ancient Origins
+Pokemon - Basic
+Psychic
+Common
+Baltoy
+32
+XY-Ancient Origins
+Pokemon - Basic
+Psychic
+Common
+Claydol
+33
+XY-Ancient Origins
+Pokemon - Stage 1
+Psychic
+Rare
+Golett
+34
+XY-Ancient Origins
+Pokemon - Basic
+Psychic
+Common
+Golurk
+35
+XY-Ancient Origins
+Pokemon - Stage 1
+Psychic
+Rare
+Hoopa-EX
+36
+XY-Ancient Origins
+Pokemon - Basic
+Psychic
+Ultra Rare
+Machamp-EX
+37
+XY-Ancient Origins
+Pokemon - Basic
+Fighting
+Ultra Rare
+Wooper
+38
+XY-Ancient Origins
+Pokemon - Basic
+Fighting
+Common
+Quagsire
+39
+XY-Ancient Origins
+Pokemon - Stage 1
+Fighting
+Common
+Regirock
+40
+XY-Ancient Origins
+Pokemon - Basic
+Fighting
+Rare
+Golurk
+41
+XY-Ancient Origins
+Pokemon - Stage 1
+Fighting
+Common
+Tyranitar-EX
+42
+XY-Ancient Origins
+Pokemon - Basic
+Darkness
+Ultra Rare
+M Tyranitar-EX
+43
+XY-Ancient Origins
+Pokemon - Mega
+Darkness
+Ultra Rare
+Sableye
+44
+XY-Ancient Origins
+Pokemon - Basic
+Darkness
+Uncommon
+Inkay
+45
+XY-Ancient Origins
+Pokemon - Basic
+Darkness
+Common
+Malamar
+46
+XY-Ancient Origins
+Pokemon - Stage 1
+Darkness
+Common
+Beldum
+47
+XY-Ancient Origins
+Pokemon - Basic
+Metal
+Common
+Metang
+48
+XY-Ancient Origins
+Pokemon - Stage 1
+Metal
+Uncommon
+Metagross
+49
+XY-Ancient Origins
+Pokemon - Stage 2
+Metal
+Rare
+Metagross
+50
+XY-Ancient Origins
+Pokemon - Stage 2
+Metal
+Rare
+Registeel
+51
+XY-Ancient Origins
+Pokemon - Basic
+Metal
+Rare
+Ralts
+52
+XY-Ancient Origins
+Pokemon - Basic
+Fairy
+Common
+Kirlia
+53
+XY-Ancient Origins
+Pokemon - Stage 1
+Fairy
+Uncommon
+Gardevoir
+54
+XY-Ancient Origins
+Pokemon - Stage 2
+Fairy
+Rare Holo
+Cottonee
+55
+XY-Ancient Origins
+Pokemon - Basic
+Fairy
+Common
+Whimsicott
+56
+XY-Ancient Origins
+Pokemon - Stage 1
+Fairy
+Uncommon
+Giratina-EX
+57
+XY-Ancient Origins
+Pokemon - Basic
+Dragon
+Ultra Rare
+Goomy
+58
+XY-Ancient Origins
+Pokemon - Basic
+Dragon
+Common
+Sliggoo
+59
+XY-Ancient Origins
+Pokemon - Stage 1
+Dragon
+Uncommon
+Goodra
+60
+XY-Ancient Origins
+Pokemon - Stage 2
+Dragon
+Rare Holo
+Meowth
+61
+XY-Ancient Origins
+Pokemon - Basic
+Colorless
+Common
+Persian
+62
+XY-Ancient Origins
+Pokemon - Stage 1
+Colorless
+Common
+Eevee
+63
+XY-Ancient Origins
+Pokemon - Basic
+Colorless
+Common
+Porygon
+64
+XY-Ancient Origins
+Pokemon - Basic
+Colorless
+Common
+Porygon2
+65
+XY-Ancient Origins
+Pokemon - Stage 1
+Colorless
+Uncommon
+Porygon-Z
+66
+XY-Ancient Origins
+Pokemon - Stage 2
+Colorless
+Rare
+Porygon-Z
+67
+XY-Ancient Origins
+Pokemon - Stage 2
+Colorless
+Rare Holo
+Lugia-EX
+68
+XY-Ancient Origins
+Pokemon - Basic
+Colorless
+Ultra Rare
+Ace Trainer
+69
+XY-Ancient Origins
+Trainer - Supporter
+n/a
+Uncommon
+Ampharos Spirit Link
+70
+XY-Ancient Origins
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Eco Arm
+71
+XY-Ancient Origins
+Trainer - Item
+n/a
+Uncommon
+Energy Recycler
+72
+XY-Ancient Origins
+Trainer - Item
+n/a
+Uncommon
+Faded Town
+73
+XY-Ancient Origins
+Trainer - Stadium
+n/a
+Uncommon
+Forest of Giant Plants
+74
+XY-Ancient Origins
+Trainer - Stadium
+n/a
+Uncommon
+Hex Maniac
+75
+XY-Ancient Origins
+Trainer - Supporter
+n/a
+Uncommon
+Level Ball
+76
+XY-Ancient Origins
+Trainer - Item
+n/a
+Uncommon
+Lucky Helmet
+77
+XY-Ancient Origins
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Lysandre
+78
+XY-Ancient Origins
+Trainer - Supporter
+n/a
+Uncommon
+Paint Roller
+79
+XY-Ancient Origins
+Trainer - Item
+n/a
+Uncommon
+Sceptile Spirit Link
+80
+XY-Ancient Origins
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Tyranitar Spirit Link
+81
+XY-Ancient Origins
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Dangerous Energy
+82
+XY-Ancient Origins
+Energy - Special Energy
+n/a
+Uncommon
+Flash Energy
+83
+XY-Ancient Origins
+Energy - Special Energy
+n/a
+Uncommon
+Sceptile-EX
+84
+XY-Ancient Origins
+Pokemon - Basic
+Grass
+Ultra Rare
+M Sceptile-EX
+85
+XY-Ancient Origins
+Pokemon - Mega
+Grass
+Ultra Rare
+Kyurem-EX
+86
+XY-Ancient Origins
+Pokemon - Basic
+Water
+Ultra Rare
+Ampharos-EX
+87
+XY-Ancient Origins
+Pokemon - Basic
+Lightning
+Ultra Rare
+M Ampharos-EX
+88
+XY-Ancient Origins
+Pokemon - Mega
+Lightning
+Ultra Rare
+Hoopa-EX
+89
+XY-Ancient Origins
+Pokemon - Basic
+Psychic
+Ultra Rare
+Machamp-EX
+90
+XY-Ancient Origins
+Pokemon - Basic
+Fighting
+Ultra Rare
+Tyranitar-EX
+91
+XY-Ancient Origins
+Pokemon - Basic
+Darkness
+Ultra Rare
+M Tyranitar-EX
+92
+XY-Ancient Origins
+Pokemon - Mega
+Darkness
+Ultra Rare
+Giratina-EX
+93
+XY-Ancient Origins
+Pokemon - Basic
+Dragon
+Ultra Rare
+Lugia-EX
+94
+XY-Ancient Origins
+Pokemon - Basic
+Colorless
+Ultra Rare
+Steven
+95
+XY-Ancient Origins
+Trainer - Supporter
+n/a
+Ultra Rare
+Primal Kyogre-EX
+96
+XY-Ancient Origins
+Pokemon - Mega
+Water
+Ultra Rare
+Primal Groudon-EX
+97
+XY-Ancient Origins
+Pokemon - Mega
+Fighting
+Ultra Rare
+M Rayquaza-EX
+98
+XY-Ancient Origins
+Pokemon - Mega
+Colorless
+Ultra Rare
+Energy Retrieval
+99
+XY-Ancient Origins
+Trainer - Item
+n/a
+Secret Rare
+Trainers Mail
+100
+XY-Ancient Origins
+Trainer - Item
+n/a
+Secret Rare

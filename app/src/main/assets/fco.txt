@@ -1,0 +1,750 @@
+Shuckle
+1
+XY-Fates Collide
+Pokemon - Basic
+Grass
+Uncommon
+Burmy
+2
+XY-Fates Collide
+Pokemon - Basic
+Grass
+Common
+Wormadam
+3
+XY-Fates Collide
+Pokemon - Stage 1
+Grass
+Uncommon
+Mothim
+4
+XY-Fates Collide
+Pokemon - Stage 1
+Grass
+Rare
+Snivy
+5
+XY-Fates Collide
+Pokemon - Basic
+Grass
+Common
+Servine
+6
+XY-Fates Collide
+Pokemon - Stage 1
+Grass
+Uncommon
+Serperior
+7
+XY-Fates Collide
+Pokemon - Stage 2
+Grass
+Rare
+Deerling
+8
+XY-Fates Collide
+Pokemon - Basic
+Grass
+Common
+Moltres
+9
+XY-Fates Collide
+Pokemon - Basic
+Fire
+Rare
+Fennekin
+10
+XY-Fates Collide
+Pokemon - Basic
+Fire
+Common
+Fennekin
+11
+XY-Fates Collide
+Pokemon - Basic
+Fire
+Common
+Braixen
+12
+XY-Fates Collide
+Pokemon - Stage 1
+Fire
+Uncommon
+Delphox
+13
+XY-Fates Collide
+Pokemon - Stage 2
+Fire
+Rare Holo
+Delphox BREAK
+14
+XY-Fates Collide
+Pokemon - BREAK
+Fire
+Ultra Rare
+Seel
+15
+XY-Fates Collide
+Pokemon - Basic
+Water
+Common
+Dewgong
+16
+XY-Fates Collide
+Pokemon - Stage 1
+Water
+Uncommon
+Omanyte
+17
+XY-Fates Collide
+Pokemon - Restored
+Water
+Uncommon
+Omastar
+18
+XY-Fates Collide
+Pokemon - Stage 1
+Water
+Rare
+Omastar BREAK
+19
+XY-Fates Collide
+Pokemon - BREAK
+Water
+Ultra Rare
+Glaceon-EX
+20
+XY-Fates Collide
+Pokemon - Basic
+Water
+Ultra Rare
+White Kyurem
+21
+XY-Fates Collide
+Pokemon - Basic
+Water
+Rare Holo
+Binacle
+22
+XY-Fates Collide
+Pokemon - Basic
+Water
+Common
+Barbaracle
+23
+XY-Fates Collide
+Pokemon - Stage 1
+Water
+Rare
+Rotom
+24
+XY-Fates Collide
+Pokemon - Basic
+Lightning
+Rare
+Alakazam-EX
+25
+XY-Fates Collide
+Pokemon - Basic
+Psychic
+Ultra Rare
+M Alakazam-EX
+26
+XY-Fates Collide
+Pokemon - Mega
+Psychic
+Ultra Rare
+Koffing
+27
+XY-Fates Collide
+Pokemon - Basic
+Psychic
+Common
+Weezing
+28
+XY-Fates Collide
+Pokemon - Stage 1
+Psychic
+Uncommon
+Mew
+29
+XY-Fates Collide
+Pokemon - Basic
+Psychic
+Rare Holo
+Spoink
+30
+XY-Fates Collide
+Pokemon - Basic
+Psychic
+Common
+Grumpig
+31
+XY-Fates Collide
+Pokemon - Stage 1
+Psychic
+Rare
+Gothita
+32
+XY-Fates Collide
+Pokemon - Basic
+Psychic
+Common
+Solosis
+33
+XY-Fates Collide
+Pokemon - Basic
+Psychic
+Common
+Duosion
+34
+XY-Fates Collide
+Pokemon - Stage 1
+Psychic
+Uncommon
+Reuniclus
+35
+XY-Fates Collide
+Pokemon - Stage 2
+Psychic
+Rare
+Diglett
+36
+XY-Fates Collide
+Pokemon - Basic
+Fighting
+Common
+Marowak
+37
+XY-Fates Collide
+Pokemon - Stage 1
+Fighting
+Rare
+Kabuto
+38
+XY-Fates Collide
+Pokemon - Restored
+Fighting
+Uncommon
+Kabutops
+39
+XY-Fates Collide
+Pokemon - Stage 1
+Fighting
+Rare
+Larvitar
+40
+XY-Fates Collide
+Pokemon - Basic
+Fighting
+Common
+Larvitar
+41
+XY-Fates Collide
+Pokemon - Basic
+Fighting
+Common
+Pupitar
+42
+XY-Fates Collide
+Pokemon - Stage 1
+Fighting
+Uncommon
+Regirock-EX
+43
+XY-Fates Collide
+Pokemon - Basic
+Fighting
+Ultra Rare
+Wormadam
+44
+XY-Fates Collide
+Pokemon - Stage 1
+Fighting
+Uncommon
+Riolu
+45
+XY-Fates Collide
+Pokemon - Basic
+Fighting
+Common
+Riolu
+46
+XY-Fates Collide
+Pokemon - Basic
+Fighting
+Common
+Lucario
+47
+XY-Fates Collide
+Pokemon - Stage 1
+Fighting
+Rare
+Hawlucha
+48
+XY-Fates Collide
+Pokemon - Basic
+Fighting
+Uncommon
+Carbink
+49
+XY-Fates Collide
+Pokemon - Basic
+Fighting
+Rare
+Carbink
+50
+XY-Fates Collide
+Pokemon - Basic
+Fighting
+Common
+Carbink BREAK
+51
+XY-Fates Collide
+Pokemon - BREAK
+Fighting
+Ultra Rare
+Zygarde
+52
+XY-Fates Collide
+Pokemon - Basic
+Fighting
+Uncommon
+Zygarde
+53
+XY-Fates Collide
+Pokemon - Basic
+Fighting
+Rare
+Zygarde-EX
+54
+XY-Fates Collide
+Pokemon - Basic
+Fighting
+Ultra Rare
+Umbreon-EX
+55
+XY-Fates Collide
+Pokemon - Basic
+Darkness
+Ultra Rare
+Tyranitar
+56
+XY-Fates Collide
+Pokemon - Stage 2
+Darkness
+Rare Holo
+Vullaby
+57
+XY-Fates Collide
+Pokemon - Basic
+Darkness
+Common
+Mandibuzz
+58
+XY-Fates Collide
+Pokemon - Stage 1
+Darkness
+Rare
+Wormadam
+59
+XY-Fates Collide
+Pokemon - Stage 1
+Metal
+Uncommon
+Bronzor
+60
+XY-Fates Collide
+Pokemon - Basic
+Metal
+Common
+Bronzong
+61
+XY-Fates Collide
+Pokemon - Stage 1
+Metal
+Rare
+Bronzong BREAK
+62
+XY-Fates Collide
+Pokemon - BREAK
+Metal
+Ultra Rare
+Lucario
+63
+XY-Fates Collide
+Pokemon - Stage 1
+Metal
+Rare Holo
+Genesect-EX
+64
+XY-Fates Collide
+Pokemon - Basic
+Metal
+Ultra Rare
+Jigglypuff
+65
+XY-Fates Collide
+Pokemon - Basic
+Fairy
+Common
+Wigglytuff
+66
+XY-Fates Collide
+Pokemon - Stage 1
+Fairy
+Uncommon
+Mr. Mime
+67
+XY-Fates Collide
+Pokemon - Basic
+Fairy
+Rare
+Snubbull
+68
+XY-Fates Collide
+Pokemon - Basic
+Fairy
+Common
+M Altaria-EX
+69
+XY-Fates Collide
+Pokemon - Mega
+Fairy
+Ultra Rare
+Cottonee
+70
+XY-Fates Collide
+Pokemon - Basic
+Fairy
+Common
+Whimsicott
+71
+XY-Fates Collide
+Pokemon - Stage 1
+Fairy
+Uncommon
+Diancie-EX
+72
+XY-Fates Collide
+Pokemon - Basic
+Fairy
+Ultra Rare
+Kingdra-EX
+73
+XY-Fates Collide
+Pokemon - Basic
+Dragon
+Ultra Rare
+Meowth
+74
+XY-Fates Collide
+Pokemon - Basic
+Colorless
+Common
+Kangaskhan
+75
+XY-Fates Collide
+Pokemon - Basic
+Colorless
+Uncommon
+Aerodactyl
+76
+XY-Fates Collide
+Pokemon - Restored
+Colorless
+Rare
+Snorlax
+77
+XY-Fates Collide
+Pokemon - Basic
+Colorless
+Rare
+Lugia
+78
+XY-Fates Collide
+Pokemon - Basic
+Colorless
+Rare
+Lugia BREAK
+79
+XY-Fates Collide
+Pokemon - BREAK
+Colorless
+Ultra Rare
+Whismur
+80
+XY-Fates Collide
+Pokemon - Basic
+Colorless
+Common
+Loudred
+81
+XY-Fates Collide
+Pokemon - Stage 1
+Colorless
+Uncommon
+Exploud
+82
+XY-Fates Collide
+Pokemon - Stage 2
+Colorless
+Rare
+Altaria-EX
+83
+XY-Fates Collide
+Pokemon - Basic
+Colorless
+Ultra Rare
+Audino-EX
+84
+XY-Fates Collide
+Pokemon - Basic
+Colorless
+Ultra Rare
+M Audino-EX
+85
+XY-Fates Collide
+Pokemon - Mega
+Colorless
+Ultra Rare
+Minccino
+86
+XY-Fates Collide
+Pokemon - Basic
+Colorless
+Common
+Minccino
+87
+XY-Fates Collide
+Pokemon - Basic
+Colorless
+Common
+Cinccino
+88
+XY-Fates Collide
+Pokemon - Stage 1
+Colorless
+Uncommon
+Cinccino
+89
+XY-Fates Collide
+Pokemon - Stage 1
+Colorless
+Uncommon
+Alakazam Spirit Link
+90
+XY-Fates Collide
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Altaria Spirit Link
+91
+XY-Fates Collide
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Audino Spirit Link
+92
+XY-Fates Collide
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Bent Spoon
+93
+XY-Fates Collide
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Chaos Tower
+94
+XY-Fates Collide
+Trainer - Stadium
+n/a
+Uncommon
+Devolution Spray
+95
+XY-Fates Collide
+Trainer - Item
+n/a
+Uncommon
+Dome Fossil Kabuto
+96
+XY-Fates Collide
+Trainer - Item
+n/a
+Uncommon
+Energy Pouch
+97
+XY-Fates Collide
+Trainer - Item
+n/a
+Uncommon
+Energy Reset
+98
+XY-Fates Collide
+Trainer - Item
+n/a
+Uncommon
+Fairy Drop
+99
+XY-Fates Collide
+Trainer - Item
+n/a
+Uncommon
+Fairy Garden
+100
+XY-Fates Collide
+Trainer - Stadium
+n/a
+Uncommon
+Fossil Excavation Kit
+101
+XY-Fates Collide
+Trainer - Item
+n/a
+Uncommon
+Helix Fossil Omanyte
+102
+XY-Fates Collide
+Trainer - Item
+n/a
+Uncommon
+Lasss Special
+103
+XY-Fates Collide
+Trainer - Supporter
+n/a
+Uncommon
+Mega Catcher
+104
+XY-Fates Collide
+Trainer - Item
+n/a
+Uncommon
+N
+105
+XY-Fates Collide
+Trainer - Supporter
+n/a
+Uncommon
+Old Amber Aerodactyl
+106
+XY-Fates Collide
+Trainer - Item
+n/a
+Uncommon
+Pokemon Fan Club
+107
+XY-Fates Collide
+Trainer - Supporter
+n/a
+Uncommon
+Power Memory
+108
+XY-Fates Collide
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Random Receiver
+109
+XY-Fates Collide
+Trainer - Item
+n/a
+Uncommon
+Scorched Earth
+110
+XY-Fates Collide
+Trainer - Stadium
+n/a
+Uncommon
+Shauna
+111
+XY-Fates Collide
+Trainer - Supporter
+n/a
+Uncommon
+Team Rockets Handiwork
+112
+XY-Fates Collide
+Trainer - Supporter
+n/a
+Uncommon
+Ultra Ball
+113
+XY-Fates Collide
+Trainer - Item
+n/a
+Uncommon
+Double Colorless Energy
+114
+XY-Fates Collide
+Energy - Special Energy
+n/a
+Uncommon
+Strong Energy
+115
+XY-Fates Collide
+Energy - Special Energy
+n/a
+Uncommon
+Glaceon-EX
+116
+XY-Fates Collide
+Pokemon - Basic
+Water
+Ultra Rare
+Alakazam-EX
+117
+XY-Fates Collide
+Pokemon - Basic
+Psychic
+Ultra Rare
+M Alakazam-EX
+118
+XY-Fates Collide
+Pokemon - Mega
+Psychic
+Ultra Rare
+Umbreon-EX
+119
+XY-Fates Collide
+Pokemon - Basic
+Darkness
+Ultra Rare
+Genesect-EX
+120
+XY-Fates Collide
+Pokemon - Basic
+Metal
+Ultra Rare
+M Altaria-EX
+121
+XY-Fates Collide
+Pokemon - Mega
+Fairy
+Ultra Rare
+Kingdra-EX
+122
+XY-Fates Collide
+Pokemon - Basic
+Dragon
+Ultra Rare
+Altaria-EX
+123
+XY-Fates Collide
+Pokemon - Basic
+Colorless
+Ultra Rare
+Team Rockets Handiwork
+124
+XY-Fates Collide
+Trainer - Supporter
+n/a
+Ultra Rare
+Alakazam-EX
+125
+XY-Fates Collide
+Pokemon - Basic
+Psychic
+Secret Rare

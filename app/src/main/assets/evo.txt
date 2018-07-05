@@ -1,0 +1,678 @@
+Venusaur-EX
+1
+XY-Evolutions
+Pokemon - Basic
+Grass
+Ultra Rare
+M Venusaur-EX
+2
+XY-Evolutions
+Pokemon - Mega
+Grass
+Ultra Rare
+Caterpie
+3
+XY-Evolutions
+Pokemon - Basic
+Grass
+Common
+Metapod
+4
+XY-Evolutions
+Pokemon - Stage 1
+Grass
+Uncommon
+Weedle
+5
+XY-Evolutions
+Pokemon - Basic
+Grass
+Common
+Kakuna
+6
+XY-Evolutions
+Pokemon - Stage 1
+Grass
+Uncommon
+Beedrill
+7
+XY-Evolutions
+Pokemon - Stage 2
+Grass
+Rare
+Tangela
+8
+XY-Evolutions
+Pokemon - Basic
+Grass
+Common
+Charmander
+9
+XY-Evolutions
+Pokemon - Basic
+Fire
+Common
+Charmeleon
+10
+XY-Evolutions
+Pokemon - Stage 1
+Fire
+Uncommon
+Charizard
+11
+XY-Evolutions
+Pokemon - Stage 2
+Fire
+Rare Holo
+Charizard-EX
+12
+XY-Evolutions
+Pokemon - Basic
+Fire
+Ultra Rare
+M Charizard-EX
+13
+XY-Evolutions
+Pokemon - Mega
+Fire
+Ultra Rare
+Vulpix
+14
+XY-Evolutions
+Pokemon - Basic
+Fire
+Common
+Ninetales
+15
+XY-Evolutions
+Pokemon - Stage 1
+Fire
+Rare Holo
+Ninetales BREAK
+16
+XY-Evolutions
+Pokemon - BREAK
+Fire
+Ultra Rare
+Growlithe
+17
+XY-Evolutions
+Pokemon - Basic
+Fire
+Common
+Arcanine
+18
+XY-Evolutions
+Pokemon - Stage 1
+Fire
+Rare
+Ponyta
+19
+XY-Evolutions
+Pokemon - Basic
+Fire
+Common
+Magmar
+20
+XY-Evolutions
+Pokemon - Basic
+Fire
+Uncommon
+Blastoise-EX
+21
+XY-Evolutions
+Pokemon - Basic
+Water
+Ultra Rare
+M Blastoise-EX
+22
+XY-Evolutions
+Pokemon - Mega
+Water
+Ultra Rare
+Poliwag
+23
+XY-Evolutions
+Pokemon - Basic
+Water
+Common
+Poliwhirl
+24
+XY-Evolutions
+Pokemon - Stage 1
+Water
+Uncommon
+Poliwrath
+25
+XY-Evolutions
+Pokemon - Stage 2
+Water
+Rare Holo
+Slowbro-EX
+26
+XY-Evolutions
+Pokemon - Basic
+Water
+Ultra Rare
+M Slowbro-EX
+27
+XY-Evolutions
+Pokemon - Mega
+Water
+Ultra Rare
+Seel
+28
+XY-Evolutions
+Pokemon - Basic
+Water
+Common
+Dewgong
+29
+XY-Evolutions
+Pokemon - Stage 1
+Water
+Rare
+Staryu
+30
+XY-Evolutions
+Pokemon - Basic
+Water
+Common
+Starmie
+31
+XY-Evolutions
+Pokemon - Stage 1
+Water
+Rare
+Starmie BREAK
+32
+XY-Evolutions
+Pokemon - BREAK
+Water
+Ultra Rare
+Magikarp
+33
+XY-Evolutions
+Pokemon - Basic
+Water
+Common
+Gyarados
+34
+XY-Evolutions
+Pokemon - Stage 1
+Water
+Rare Holo
+Pikachu
+35
+XY-Evolutions
+Pokemon - Basic
+Lightning
+Common
+Raichu
+36
+XY-Evolutions
+Pokemon - Stage 1
+Lightning
+Rare Holo
+Magnemite
+37
+XY-Evolutions
+Pokemon - Basic
+Lightning
+Common
+Magneton
+38
+XY-Evolutions
+Pokemon - Stage 1
+Lightning
+Rare Holo
+Voltorb
+39
+XY-Evolutions
+Pokemon - Basic
+Lightning
+Common
+Electrode
+40
+XY-Evolutions
+Pokemon - Stage 1
+Lightning
+Rare
+Electabuzz
+41
+XY-Evolutions
+Pokemon - Basic
+Lightning
+Common
+Zapdos
+42
+XY-Evolutions
+Pokemon - Basic
+Lightning
+Rare Holo
+Nidoran Male
+43
+XY-Evolutions
+Pokemon - Basic
+Psychic
+Common
+Nidorino
+44
+XY-Evolutions
+Pokemon - Stage 1
+Psychic
+Uncommon
+Nidoking
+45
+XY-Evolutions
+Pokemon - Stage 2
+Psychic
+Rare Holo
+Nidoking BREAK
+46
+XY-Evolutions
+Pokemon - BREAK
+Psychic
+Ultra Rare
+Gastly
+47
+XY-Evolutions
+Pokemon - Basic
+Psychic
+Common
+Haunter
+48
+XY-Evolutions
+Pokemon - Stage 1
+Psychic
+Uncommon
+Drowzee
+49
+XY-Evolutions
+Pokemon - Basic
+Psychic
+Common
+Koffing
+50
+XY-Evolutions
+Pokemon - Basic
+Psychic
+Uncommon
+Mewtwo
+51
+XY-Evolutions
+Pokemon - Basic
+Psychic
+Rare
+Mewtwo-EX
+52
+XY-Evolutions
+Pokemon - Basic
+Psychic
+Ultra Rare
+Mew
+53
+XY-Evolutions
+Pokemon - Basic
+Psychic
+Rare Holo
+Sandshrew
+54
+XY-Evolutions
+Pokemon - Basic
+Fighting
+Common
+Diglett
+55
+XY-Evolutions
+Pokemon - Basic
+Fighting
+Common
+Dugtrio
+56
+XY-Evolutions
+Pokemon - Stage 1
+Fighting
+Rare
+Machop
+57
+XY-Evolutions
+Pokemon - Basic
+Fighting
+Common
+Machoke
+58
+XY-Evolutions
+Pokemon - Stage 1
+Fighting
+Uncommon
+Machamp
+59
+XY-Evolutions
+Pokemon - Stage 2
+Fighting
+Rare Holo
+Machamp BREAK
+60
+XY-Evolutions
+Pokemon - BREAK
+Fighting
+Ultra Rare
+Onix
+61
+XY-Evolutions
+Pokemon - Basic
+Fighting
+Common
+Hitmonchan
+62
+XY-Evolutions
+Pokemon - Basic
+Fighting
+Rare Holo
+Clefairy
+63
+XY-Evolutions
+Pokemon - Basic
+Fairy
+Rare Holo
+Pidgeot-EX
+64
+XY-Evolutions
+Pokemon - Basic
+Colorless
+Ultra Rare
+M Pidgeot-EX
+65
+XY-Evolutions
+Pokemon - Mega
+Colorless
+Ultra Rare
+Rattata
+66
+XY-Evolutions
+Pokemon - Basic
+Colorless
+Common
+Raticate
+67
+XY-Evolutions
+Pokemon - Stage 1
+Colorless
+Rare
+Farfetchd
+68
+XY-Evolutions
+Pokemon - Basic
+Colorless
+Rare
+Doduo
+69
+XY-Evolutions
+Pokemon - Basic
+Colorless
+Common
+Chansey
+70
+XY-Evolutions
+Pokemon - Basic
+Colorless
+Rare Holo
+Porygon
+71
+XY-Evolutions
+Pokemon - Basic
+Colorless
+Uncommon
+Dragonite-EX
+72
+XY-Evolutions
+Pokemon - Basic
+Colorless
+Ultra Rare
+Blastoise Spirit Link
+73
+XY-Evolutions
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Brocks Grit
+74
+XY-Evolutions
+Trainer - Supporter
+n/a
+Uncommon
+Charizard Spirit Link
+75
+XY-Evolutions
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Devolution Spray
+76
+XY-Evolutions
+Trainer - Item
+n/a
+Uncommon
+Energy Retrieval
+77
+XY-Evolutions
+Trainer - Item
+n/a
+Uncommon
+Full Heal
+78
+XY-Evolutions
+Trainer - Item
+n/a
+Uncommon
+Maintenance
+79
+XY-Evolutions
+Trainer - Item
+n/a
+Uncommon
+Mistys Determination
+80
+XY-Evolutions
+Trainer - Supporter
+n/a
+Uncommon
+Pidgeot Spirit Link
+81
+XY-Evolutions
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Pokédex
+82
+XY-Evolutions
+Trainer - Item
+n/a
+Uncommon
+Potion
+83
+XY-Evolutions
+Trainer - Item
+n/a
+Uncommon
+Professor Oaks Hint
+84
+XY-Evolutions
+Trainer - Supporter
+n/a
+Uncommon
+Revive
+85
+XY-Evolutions
+Trainer - Item
+n/a
+Uncommon
+Slowbro Spirit Link
+86
+XY-Evolutions
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Super Potion
+87
+XY-Evolutions
+Trainer - Item
+n/a
+Uncommon
+Switch
+88
+XY-Evolutions
+Trainer - Item
+n/a
+Uncommon
+Venusaur Spirit Link
+89
+XY-Evolutions
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Double Colorless Energy
+90
+XY-Evolutions
+Energy - Special Energy
+n/a
+Uncommon
+Grass Energy
+91
+XY-Evolutions
+Energy - Basic Energy
+n/a
+Common
+Fire Energy
+92
+XY-Evolutions
+Energy - Basic Energy
+n/a
+Common
+Water Energy
+93
+XY-Evolutions
+Energy - Basic Energy
+n/a
+Common
+Lightning Energy
+94
+XY-Evolutions
+Energy - Basic Energy
+n/a
+Common
+Psychic Energy
+95
+XY-Evolutions
+Energy - Basic Energy
+n/a
+Common
+Fighting Energy
+96
+XY-Evolutions
+Energy - Basic Energy
+n/a
+Common
+Darkness Energy
+97
+XY-Evolutions
+Energy - Basic Energy
+n/a
+Common
+Metal Energy
+98
+XY-Evolutions
+Energy - Basic Energy
+n/a
+Common
+Fairy Energy
+99
+XY-Evolutions
+Energy - Basic Energy
+n/a
+Common
+M Venusaur-EX
+100
+XY-Evolutions
+Pokemon - Mega
+Grass
+Ultra Rare
+M Charizard-EX
+101
+XY-Evolutions
+Pokemon - Mega
+Fire
+Ultra Rare
+M Blastoise-EX
+102
+XY-Evolutions
+Pokemon - Mega
+Water
+Ultra Rare
+Mewtwo-EX
+103
+XY-Evolutions
+Pokemon - Basic
+Psychic
+Ultra Rare
+Pidgeot-EX
+104
+XY-Evolutions
+Pokemon - Basic
+Colorless
+Ultra Rare
+M Pidgeot-EX
+105
+XY-Evolutions
+Pokemon - Mega
+Colorless
+Ultra Rare
+Dragonite-EX
+106
+XY-Evolutions
+Pokemon - Basic
+Colorless
+Ultra Rare
+Brocks Grit
+107
+XY-Evolutions
+Trainer - Supporter
+n/a
+Ultra Rare
+Mistys Determination
+108
+XY-Evolutions
+Trainer - Supporter
+n/a
+Ultra Rare
+Exeggutor
+109
+XY-Evolutions
+Pokemon - Stage 1
+Grass
+Secret Rare
+Flying Pikachu
+110
+XY-Evolutions
+Pokemon - Basic
+Lightning
+Secret Rare
+Surfing Pikachu
+111
+XY-Evolutions
+Pokemon - Basic
+Lightning
+Secret Rare
+Imakuni?s Doduo
+112
+XY-Evolutions
+Pokemon - Basic
+Colorless
+Secret Rare
+Here Comes Team Rocket!
+113
+XY-Evolutions
+Trainer - Supporter
+n/a
+Secret Rare

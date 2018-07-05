@@ -1,0 +1,90 @@
+Rowlet
+SM01
+SM-Promo
+Pokemon - Basic
+Grass
+Promo
+Litten
+SM02
+SM-Promo
+Pokemon - Basic
+Fire
+Promo
+Popplio
+SM03
+SM-Promo
+Pokemon - Basic
+Water
+Promo
+Pikachu
+SM04
+SM-Promo
+Pokemon - Basic
+Lightning
+Promo
+Snorlax-GX
+SM05
+SM-Promo
+Pokemon - Basic
+Colorless
+Promo
+Rockruff
+SM06
+SM-Promo
+Pokemon - Basic
+Fighting
+Promo
+Pikipek
+SM07
+SM-Promo
+Pokemon - Basic
+Colorless
+Promo
+Litten
+SM08
+SM-Promo
+Pokemon - Basic
+Fire
+Promo
+Togedemaru
+SM09
+SM-Promo
+Pokemon - Basic
+Lightning
+Promo
+Shiinotic
+SM10
+SM-Promo
+Pokemon - Stage 1
+Grass
+Promo
+Bruxish
+SM11
+SM-Promo
+Pokemon - Basic
+Water
+Promo
+Passimian
+SM12
+SM-Promo
+Pokemon - Basic
+Fighting
+Promo
+Oranguru
+SM13
+SM-Promo
+Pokemon - Basic
+Colorless
+Promo
+Lycanroc-GX
+SM14
+SM-Promo
+Pokemon - Stage 1
+Fighting
+Promo
+Zygarde
+SM15
+SM-Promo
+Pokemon - Basic
+Fighting
+Promo

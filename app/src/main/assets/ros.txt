@@ -1,0 +1,660 @@
+Exeggcute
+1
+XY-Roaring Skies
+Pokemon - Basic
+Grass
+Common
+Exeggutor
+2
+XY-Roaring Skies
+Pokemon - Stage 1
+Grass
+Uncommon
+Wurmple
+3
+XY-Roaring Skies
+Pokemon - Basic
+Grass
+Common
+Silcoon
+4
+XY-Roaring Skies
+Pokemon - Stage 1
+Grass
+Uncommon
+Beautifly
+5
+XY-Roaring Skies
+Pokemon - Stage 2
+Grass
+Rare Holo
+Cascoon
+6
+XY-Roaring Skies
+Pokemon - Stage 1
+Grass
+Common
+Dustox
+7
+XY-Roaring Skies
+Pokemon - Stage 2
+Grass
+Uncommon
+Dustox
+8
+XY-Roaring Skies
+Pokemon - Stage 2
+Grass
+Rare
+Nincada
+9
+XY-Roaring Skies
+Pokemon - Basic
+Grass
+Common
+Ninjask
+10
+XY-Roaring Skies
+Pokemon - Stage 1
+Grass
+Uncommon
+Shedinja
+11
+XY-Roaring Skies
+Pokemon - Stage 1
+Grass
+Rare
+Tropius
+12
+XY-Roaring Skies
+Pokemon - Basic
+Grass
+Uncommon
+Victini
+13
+XY-Roaring Skies
+Pokemon - Basic
+Fire
+Rare
+Fletchinder
+14
+XY-Roaring Skies
+Pokemon - Stage 1
+Fire
+Uncommon
+Talonflame
+15
+XY-Roaring Skies
+Pokemon - Stage 2
+Fire
+Rare
+Articuno
+16
+XY-Roaring Skies
+Pokemon - Basic
+Water
+Rare
+Articuno
+17
+XY-Roaring Skies
+Pokemon - Basic
+Water
+Rare
+Wingull
+18
+XY-Roaring Skies
+Pokemon - Basic
+Water
+Common
+Pelipper
+19
+XY-Roaring Skies
+Pokemon - Stage 1
+Water
+Uncommon
+Pikachu
+20
+XY-Roaring Skies
+Pokemon - Basic
+Lightning
+Common
+Voltorb
+21
+XY-Roaring Skies
+Pokemon - Basic
+Lightning
+Common
+Electrode
+22
+XY-Roaring Skies
+Pokemon - Stage 1
+Lightning
+Uncommon
+Zapdos
+23
+XY-Roaring Skies
+Pokemon - Basic
+Lightning
+Rare
+Electrike
+24
+XY-Roaring Skies
+Pokemon - Basic
+Lightning
+Common
+Manectric
+25
+XY-Roaring Skies
+Pokemon - Stage 1
+Lightning
+Uncommon
+Thundurus-EX
+26
+XY-Roaring Skies
+Pokemon - Basic
+Lightning
+Ultra Rare
+Natu
+27
+XY-Roaring Skies
+Pokemon - Basic
+Psychic
+Common
+Natu
+28
+XY-Roaring Skies
+Pokemon - Basic
+Psychic
+Common
+Xatu
+29
+XY-Roaring Skies
+Pokemon - Stage 1
+Psychic
+Rare
+Shuppet
+30
+XY-Roaring Skies
+Pokemon - Basic
+Psychic
+Common
+Banette
+31
+XY-Roaring Skies
+Pokemon - Stage 1
+Psychic
+Rare
+Banette
+32
+XY-Roaring Skies
+Pokemon - Stage 1
+Psychic
+Rare
+Deoxys
+33
+XY-Roaring Skies
+Pokemon - Basic
+Psychic
+Rare Holo
+Gallade-EX
+34
+XY-Roaring Skies
+Pokemon - Basic
+Psychic
+Ultra Rare
+M Gallade-EX
+35
+XY-Roaring Skies
+Pokemon - Mega
+Psychic
+Ultra Rare
+Gligar
+36
+XY-Roaring Skies
+Pokemon - Basic
+Fighting
+Common
+Gliscor
+37
+XY-Roaring Skies
+Pokemon - Stage 1
+Fighting
+Uncommon
+Binacle
+38
+XY-Roaring Skies
+Pokemon - Basic
+Fighting
+Common
+Hawlucha
+39
+XY-Roaring Skies
+Pokemon - Basic
+Fighting
+Common
+Absol
+40
+XY-Roaring Skies
+Pokemon - Basic
+Darkness
+Rare Holo
+Inkay
+41
+XY-Roaring Skies
+Pokemon - Basic
+Darkness
+Common
+Jirachi
+42
+XY-Roaring Skies
+Pokemon - Basic
+Metal
+Rare Holo
+Togepi
+43
+XY-Roaring Skies
+Pokemon - Basic
+Fairy
+Common
+Togetic
+44
+XY-Roaring Skies
+Pokemon - Stage 1
+Fairy
+Uncommon
+Togekiss
+45
+XY-Roaring Skies
+Pokemon - Stage 2
+Fairy
+Rare
+Togekiss
+46
+XY-Roaring Skies
+Pokemon - Stage 2
+Fairy
+Rare Holo
+Carbink
+47
+XY-Roaring Skies
+Pokemon - Basic
+Fairy
+Rare
+Klefki
+48
+XY-Roaring Skies
+Pokemon - Basic
+Fairy
+Rare
+Dratini
+49
+XY-Roaring Skies
+Pokemon - Basic
+Dragon
+Common
+Dragonair
+50
+XY-Roaring Skies
+Pokemon - Stage 1
+Dragon
+Uncommon
+Dragonite
+51
+XY-Roaring Skies
+Pokemon - Stage 2
+Dragon
+Rare
+Dragonite
+52
+XY-Roaring Skies
+Pokemon - Stage 2
+Dragon
+Rare Holo
+Altaria
+53
+XY-Roaring Skies
+Pokemon - Stage 1
+Dragon
+Uncommon
+Bagon
+54
+XY-Roaring Skies
+Pokemon - Basic
+Dragon
+Common
+Bagon
+55
+XY-Roaring Skies
+Pokemon - Basic
+Dragon
+Common
+Shelgon
+56
+XY-Roaring Skies
+Pokemon - Stage 1
+Dragon
+Uncommon
+Salamence
+57
+XY-Roaring Skies
+Pokemon - Stage 2
+Dragon
+Rare Holo
+Latios-EX
+58
+XY-Roaring Skies
+Pokemon - Basic
+Dragon
+Ultra Rare
+M Latios-EX
+59
+XY-Roaring Skies
+Pokemon - Mega
+Dragon
+Ultra Rare
+Rayquaza-EX
+60
+XY-Roaring Skies
+Pokemon - Basic
+Dragon
+Ultra Rare
+M Rayquaza-EX
+61
+XY-Roaring Skies
+Pokemon - Mega
+Dragon
+Ultra Rare
+Hydreigon-EX
+62
+XY-Roaring Skies
+Pokemon - Basic
+Dragon
+Ultra Rare
+Reshiram
+63
+XY-Roaring Skies
+Pokemon - Basic
+Dragon
+Rare Holo
+Zekrom
+64
+XY-Roaring Skies
+Pokemon - Basic
+Dragon
+Rare Holo
+Spearow
+65
+XY-Roaring Skies
+Pokemon - Basic
+Colorless
+Common
+Fearow
+66
+XY-Roaring Skies
+Pokemon - Stage 1
+Colorless
+Uncommon
+Meowth
+67
+XY-Roaring Skies
+Pokemon - Basic
+Colorless
+Common
+Dunsparce
+68
+XY-Roaring Skies
+Pokemon - Basic
+Colorless
+Common
+Skarmory
+69
+XY-Roaring Skies
+Pokemon - Basic
+Colorless
+Rare
+Taillow
+70
+XY-Roaring Skies
+Pokemon - Basic
+Colorless
+Common
+Swellow
+71
+XY-Roaring Skies
+Pokemon - Stage 1
+Colorless
+Rare
+Swellow
+72
+XY-Roaring Skies
+Pokemon - Stage 1
+Colorless
+Rare Holo
+Swablu
+73
+XY-Roaring Skies
+Pokemon - Basic
+Colorless
+Common
+Altaria
+74
+XY-Roaring Skies
+Pokemon - Stage 1
+Colorless
+Rare
+Rayquaza-EX
+75
+XY-Roaring Skies
+Pokemon - Basic
+Colorless
+Ultra Rare
+M Rayquaza-EX
+76
+XY-Roaring Skies
+Pokemon - Mega
+Colorless
+Ultra Rare
+Shaymin-EX
+77
+XY-Roaring Skies
+Pokemon - Basic
+Colorless
+Ultra Rare
+Pidove
+78
+XY-Roaring Skies
+Pokemon - Basic
+Colorless
+Common
+Tranquill
+79
+XY-Roaring Skies
+Pokemon - Stage 1
+Colorless
+Uncommon
+Unfezant
+80
+XY-Roaring Skies
+Pokemon - Stage 2
+Colorless
+Uncommon
+Unfezant
+81
+XY-Roaring Skies
+Pokemon - Stage 2
+Colorless
+Rare
+Fletchling
+82
+XY-Roaring Skies
+Pokemon - Basic
+Colorless
+Common
+Gallade Spirit Link
+83
+XY-Roaring Skies
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Healing Scarf
+84
+XY-Roaring Skies
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Latios Spirit Link
+85
+XY-Roaring Skies
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Mega Turbo
+86
+XY-Roaring Skies
+Trainer - Item
+n/a
+Uncommon
+Rayquaza Spirit Link
+87
+XY-Roaring Skies
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Revive
+88
+XY-Roaring Skies
+Trainer - Item
+n/a
+Uncommon
+Sky Field
+89
+XY-Roaring Skies
+Trainer - Stadium
+n/a
+Uncommon
+Steven
+90
+XY-Roaring Skies
+Trainer - Supporter
+n/a
+Uncommon
+Switch
+91
+XY-Roaring Skies
+Trainer - Item
+n/a
+Uncommon
+Trainers Mail
+92
+XY-Roaring Skies
+Trainer - Item
+n/a
+Uncommon
+Ultra Ball
+93
+XY-Roaring Skies
+Trainer - Item
+n/a
+Uncommon
+Wally
+94
+XY-Roaring Skies
+Trainer - Supporter
+n/a
+Uncommon
+Wide Lens
+95
+XY-Roaring Skies
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Winona
+96
+XY-Roaring Skies
+Trainer - Supporter
+n/a
+Uncommon
+Double Dragon Energy
+97
+XY-Roaring Skies
+Energy - Special Energy
+n/a
+Uncommon
+Thundurus-EX
+98
+XY-Roaring Skies
+Pokemon - Basic
+Lightning
+Ultra Rare
+Gallade-EX
+99
+XY-Roaring Skies
+Pokemon - Basic
+Psychic
+Ultra Rare
+M Gallade-EX
+100
+XY-Roaring Skies
+Pokemon - Mega
+Psychic
+Ultra Rare
+Latios-EX
+101
+XY-Roaring Skies
+Pokemon - Basic
+Dragon
+Ultra Rare
+M Latios-EX
+102
+XY-Roaring Skies
+Pokemon - Mega
+Dragon
+Ultra Rare
+Hydreigon-EX
+103
+XY-Roaring Skies
+Pokemon - Basic
+Dragon
+Ultra Rare
+Rayquaza-EX
+104
+XY-Roaring Skies
+Pokemon - Basic
+Colorless
+Ultra Rare
+M Rayquaza-EX
+105
+XY-Roaring Skies
+Pokemon - Mega
+Colorless
+Ultra Rare
+Shaymin-EX
+106
+XY-Roaring Skies
+Pokemon - Basic
+Colorless
+Ultra Rare
+Wally
+107
+XY-Roaring Skies
+Trainer - Supporter
+n/a
+Ultra Rare
+Winona
+108
+XY-Roaring Skies
+Trainer - Supporter
+n/a
+Ultra Rare
+Energy Switch
+109
+XY-Roaring Skies
+Trainer - Item
+n/a
+Secret Rare
+VS Seeker
+110
+XY-Roaring Skies
+Trainer - Item
+n/a
+Secret Rare

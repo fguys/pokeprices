@@ -1,0 +1,984 @@
+Weedle
+1
+XY-Primal Clash
+Pokemon - Basic
+Grass
+Common
+Kakuna
+2
+XY-Primal Clash
+Pokemon - Stage 1
+Grass
+Uncommon
+Beedrill
+3
+XY-Primal Clash
+Pokemon - Stage 2
+Grass
+Rare
+Tangela
+4
+XY-Primal Clash
+Pokemon - Basic
+Grass
+Common
+Tangrowth
+5
+XY-Primal Clash
+Pokemon - Stage 1
+Grass
+Rare
+Treecko
+6
+XY-Primal Clash
+Pokemon - Basic
+Grass
+Common
+Grovyle
+7
+XY-Primal Clash
+Pokemon - Stage 1
+Grass
+Uncommon
+Sceptile
+8
+XY-Primal Clash
+Pokemon - Stage 2
+Grass
+Rare
+Sceptile
+9
+XY-Primal Clash
+Pokemon - Stage 2
+Grass
+Rare Holo
+Lotad
+10
+XY-Primal Clash
+Pokemon - Basic
+Grass
+Common
+Lombre
+11
+XY-Primal Clash
+Pokemon - Stage 1
+Grass
+Uncommon
+Ludicolo
+12
+XY-Primal Clash
+Pokemon - Stage 2
+Grass
+Rare Holo
+Surskit
+13
+XY-Primal Clash
+Pokemon - Basic
+Grass
+Common
+Masquerain
+14
+XY-Primal Clash
+Pokemon - Stage 1
+Grass
+Uncommon
+Shroomish
+15
+XY-Primal Clash
+Pokemon - Basic
+Grass
+Common
+Breloom
+16
+XY-Primal Clash
+Pokemon - Stage 1
+Grass
+Rare
+Volbeat
+17
+XY-Primal Clash
+Pokemon - Basic
+Grass
+Common
+Illumise
+18
+XY-Primal Clash
+Pokemon - Basic
+Grass
+Common
+Trevenant-EX
+19
+XY-Primal Clash
+Pokemon - Basic
+Grass
+Ultra Rare
+Vulpix
+20
+XY-Primal Clash
+Pokemon - Basic
+Fire
+Common
+Ninetales
+21
+XY-Primal Clash
+Pokemon - Stage 1
+Fire
+Rare
+Slugma
+22
+XY-Primal Clash
+Pokemon - Basic
+Fire
+Common
+Magcargo
+23
+XY-Primal Clash
+Pokemon - Stage 1
+Fire
+Uncommon
+Magcargo
+24
+XY-Primal Clash
+Pokemon - Stage 1
+Fire
+Rare
+Torchic
+25
+XY-Primal Clash
+Pokemon - Basic
+Fire
+Common
+Torchic
+26
+XY-Primal Clash
+Pokemon - Basic
+Fire
+Uncommon
+Combusken
+27
+XY-Primal Clash
+Pokemon - Stage 1
+Fire
+Uncommon
+Blaziken
+28
+XY-Primal Clash
+Pokemon - Stage 2
+Fire
+Rare Holo
+Camerupt-EX
+29
+XY-Primal Clash
+Pokemon - Basic
+Fire
+Ultra Rare
+Horsea
+30
+XY-Primal Clash
+Pokemon - Basic
+Water
+Common
+Seadra
+31
+XY-Primal Clash
+Pokemon - Stage 1
+Water
+Uncommon
+Staryu
+32
+XY-Primal Clash
+Pokemon - Basic
+Water
+Common
+Mudkip
+33
+XY-Primal Clash
+Pokemon - Basic
+Water
+Common
+Marshtomp
+34
+XY-Primal Clash
+Pokemon - Stage 1
+Water
+Uncommon
+Swampert
+35
+XY-Primal Clash
+Pokemon - Stage 2
+Water
+Rare
+Swampert
+36
+XY-Primal Clash
+Pokemon - Stage 2
+Water
+Rare Holo
+Ludicolo
+37
+XY-Primal Clash
+Pokemon - Stage 2
+Water
+Rare
+Wailord-EX
+38
+XY-Primal Clash
+Pokemon - Basic
+Water
+Ultra Rare
+Barboach
+39
+XY-Primal Clash
+Pokemon - Basic
+Water
+Common
+Whiscash
+40
+XY-Primal Clash
+Pokemon - Stage 1
+Water
+Uncommon
+Whiscash
+41
+XY-Primal Clash
+Pokemon - Stage 1
+Water
+Rare
+Corphish
+42
+XY-Primal Clash
+Pokemon - Basic
+Water
+Common
+Feebas
+43
+XY-Primal Clash
+Pokemon - Basic
+Water
+Common
+Milotic
+44
+XY-Primal Clash
+Pokemon - Stage 1
+Water
+Rare Holo
+Spheal
+45
+XY-Primal Clash
+Pokemon - Basic
+Water
+Common
+Spheal
+46
+XY-Primal Clash
+Pokemon - Basic
+Water
+Common
+Sealeo
+47
+XY-Primal Clash
+Pokemon - Stage 1
+Water
+Uncommon
+Walrein
+48
+XY-Primal Clash
+Pokemon - Stage 2
+Water
+Rare
+Clamperl
+49
+XY-Primal Clash
+Pokemon - Basic
+Water
+Common
+Huntail
+50
+XY-Primal Clash
+Pokemon - Stage 1
+Water
+Rare Holo
+Gorebyss
+51
+XY-Primal Clash
+Pokemon - Stage 1
+Water
+Uncommon
+Gorebyss
+52
+XY-Primal Clash
+Pokemon - Stage 1
+Water
+Rare
+Kyogre
+53
+XY-Primal Clash
+Pokemon - Basic
+Water
+Rare
+Kyogre-EX
+54
+XY-Primal Clash
+Pokemon - Basic
+Water
+Ultra Rare
+Primal Kyogre-EX
+55
+XY-Primal Clash
+Pokemon - Mega
+Water
+Ultra Rare
+Manaphy
+56
+XY-Primal Clash
+Pokemon - Basic
+Water
+Rare Holo
+Chinchou
+57
+XY-Primal Clash
+Pokemon - Basic
+Lightning
+Common
+Lanturn
+58
+XY-Primal Clash
+Pokemon - Stage 1
+Lightning
+Uncommon
+Electrike
+59
+XY-Primal Clash
+Pokemon - Basic
+Lightning
+Common
+Electrike
+60
+XY-Primal Clash
+Pokemon - Basic
+Lightning
+Uncommon
+Manectric
+61
+XY-Primal Clash
+Pokemon - Stage 1
+Lightning
+Rare Holo
+Tynamo
+62
+XY-Primal Clash
+Pokemon - Basic
+Lightning
+Common
+Eelektrik
+63
+XY-Primal Clash
+Pokemon - Stage 1
+Lightning
+Uncommon
+Eelektrik
+64
+XY-Primal Clash
+Pokemon - Stage 1
+Lightning
+Rare
+Eelektross
+65
+XY-Primal Clash
+Pokemon - Stage 2
+Lightning
+Rare Holo
+Nidoran Female
+66
+XY-Primal Clash
+Pokemon - Basic
+Psychic
+Common
+Nidorina
+67
+XY-Primal Clash
+Pokemon - Stage 1
+Psychic
+Uncommon
+Nidoqueen
+68
+XY-Primal Clash
+Pokemon - Stage 2
+Psychic
+Uncommon
+Nidoqueen
+69
+XY-Primal Clash
+Pokemon - Stage 2
+Psychic
+Rare
+Tentacool
+70
+XY-Primal Clash
+Pokemon - Basic
+Psychic
+Common
+Tentacool
+71
+XY-Primal Clash
+Pokemon - Basic
+Psychic
+Uncommon
+Tentacruel
+72
+XY-Primal Clash
+Pokemon - Stage 1
+Psychic
+Rare
+Starmie
+73
+XY-Primal Clash
+Pokemon - Stage 1
+Psychic
+Rare
+Rhyhorn
+74
+XY-Primal Clash
+Pokemon - Basic
+Fighting
+Common
+Rhydon
+75
+XY-Primal Clash
+Pokemon - Stage 1
+Fighting
+Uncommon
+Rhyperior
+76
+XY-Primal Clash
+Pokemon - Stage 2
+Fighting
+Rare
+Rhyperior
+77
+XY-Primal Clash
+Pokemon - Stage 2
+Fighting
+Rare Holo
+Nosepass
+78
+XY-Primal Clash
+Pokemon - Basic
+Fighting
+Common
+Meditite
+79
+XY-Primal Clash
+Pokemon - Basic
+Fighting
+Common
+Medicham
+80
+XY-Primal Clash
+Pokemon - Stage 1
+Fighting
+Rare Holo
+Medicham
+81
+XY-Primal Clash
+Pokemon - Stage 1
+Fighting
+Rare
+Trapinch
+82
+XY-Primal Clash
+Pokemon - Basic
+Fighting
+Common
+Solrock
+83
+XY-Primal Clash
+Pokemon - Basic
+Fighting
+Common
+Groudon
+84
+XY-Primal Clash
+Pokemon - Basic
+Fighting
+Rare
+Groudon-EX
+85
+XY-Primal Clash
+Pokemon - Basic
+Fighting
+Ultra Rare
+Primal Groudon-EX
+86
+XY-Primal Clash
+Pokemon - Mega
+Fighting
+Ultra Rare
+Hippopotas
+87
+XY-Primal Clash
+Pokemon - Basic
+Fighting
+Common
+Hippowdon
+88
+XY-Primal Clash
+Pokemon - Stage 1
+Fighting
+Rare Holo
+Drilbur
+89
+XY-Primal Clash
+Pokemon - Basic
+Fighting
+Common
+Diggersby
+90
+XY-Primal Clash
+Pokemon - Stage 1
+Fighting
+Rare
+Sharpedo-EX
+91
+XY-Primal Clash
+Pokemon - Basic
+Darkness
+Ultra Rare
+Crawdaunt
+92
+XY-Primal Clash
+Pokemon - Stage 1
+Darkness
+Rare Holo
+Aggron-EX
+93
+XY-Primal Clash
+Pokemon - Basic
+Metal
+Ultra Rare
+M Aggron-EX
+94
+XY-Primal Clash
+Pokemon - Mega
+Metal
+Ultra Rare
+Probopass
+95
+XY-Primal Clash
+Pokemon - Stage 1
+Metal
+Rare
+Excadrill
+96
+XY-Primal Clash
+Pokemon - Stage 1
+Metal
+Rare
+Excadrill
+97
+XY-Primal Clash
+Pokemon - Stage 1
+Metal
+Rare Holo
+Honedge
+98
+XY-Primal Clash
+Pokemon - Basic
+Metal
+Common
+Doublade
+99
+XY-Primal Clash
+Pokemon - Stage 1
+Metal
+Uncommon
+Aegislash
+100
+XY-Primal Clash
+Pokemon - Stage 2
+Metal
+Rare Holo
+Mr. Mime
+101
+XY-Primal Clash
+Pokemon - Basic
+Fairy
+Uncommon
+Marill
+102
+XY-Primal Clash
+Pokemon - Basic
+Fairy
+Common
+Azumarill
+103
+XY-Primal Clash
+Pokemon - Stage 1
+Fairy
+Rare
+Azumarill
+104
+XY-Primal Clash
+Pokemon - Stage 1
+Fairy
+Rare Holo
+Gardevoir-EX
+105
+XY-Primal Clash
+Pokemon - Basic
+Fairy
+Ultra Rare
+M Gardevoir-EX
+106
+XY-Primal Clash
+Pokemon - Mega
+Fairy
+Ultra Rare
+Kingdra
+107
+XY-Primal Clash
+Pokemon - Stage 2
+Dragon
+Rare
+Kingdra
+108
+XY-Primal Clash
+Pokemon - Stage 2
+Dragon
+Rare Holo
+Vibrava
+109
+XY-Primal Clash
+Pokemon - Stage 1
+Dragon
+Uncommon
+Flygon
+110
+XY-Primal Clash
+Pokemon - Stage 2
+Dragon
+Rare Holo
+Zigzagoon
+111
+XY-Primal Clash
+Pokemon - Basic
+Colorless
+Common
+Linoone
+112
+XY-Primal Clash
+Pokemon - Stage 1
+Colorless
+Uncommon
+Skitty
+113
+XY-Primal Clash
+Pokemon - Basic
+Colorless
+Common
+Delcatty
+114
+XY-Primal Clash
+Pokemon - Stage 1
+Colorless
+Rare
+Spinda
+115
+XY-Primal Clash
+Pokemon - Basic
+Colorless
+Common
+Bidoof
+116
+XY-Primal Clash
+Pokemon - Basic
+Colorless
+Common
+Bidoof
+117
+XY-Primal Clash
+Pokemon - Basic
+Colorless
+Uncommon
+Bibarel
+118
+XY-Primal Clash
+Pokemon - Stage 1
+Colorless
+Uncommon
+Bouffalant
+119
+XY-Primal Clash
+Pokemon - Basic
+Colorless
+Uncommon
+Bunnelby
+120
+XY-Primal Clash
+Pokemon - Basic
+Colorless
+Common
+Bunnelby
+121
+XY-Primal Clash
+Pokemon - Basic
+Colorless
+Uncommon
+Acro Bike
+122
+XY-Primal Clash
+Trainer - Item
+n/a
+Uncommon
+Aggron Spirit Link
+123
+XY-Primal Clash
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Archies Ace in the Hole
+124
+XY-Primal Clash
+Trainer - Supporter
+n/a
+Uncommon
+Dive Ball
+125
+XY-Primal Clash
+Trainer - Item
+n/a
+Uncommon
+Energy Retrieval
+126
+XY-Primal Clash
+Trainer - Item
+n/a
+Uncommon
+Escape Rope
+127
+XY-Primal Clash
+Trainer - Item
+n/a
+Uncommon
+Exp Share
+128
+XY-Primal Clash
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Fresh Water Set
+129
+XY-Primal Clash
+Trainer - Item
+n/a
+Uncommon
+Gardevoir Spirit Link
+130
+XY-Primal Clash
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Groudon Spirit Link
+131
+XY-Primal Clash
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Kyogre Spirit Link
+132
+XY-Primal Clash
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Maxies Hidden Ball Trick
+133
+XY-Primal Clash
+Trainer - Supporter
+n/a
+Uncommon
+Professor Birchs Observations
+134
+XY-Primal Clash
+Trainer - Supporter
+n/a
+Uncommon
+Rare Candy
+135
+XY-Primal Clash
+Trainer - Item
+n/a
+Uncommon
+Repeat Ball
+136
+XY-Primal Clash
+Trainer - Item
+n/a
+Uncommon
+Rough Seas
+137
+XY-Primal Clash
+Trainer - Stadium
+n/a
+Uncommon
+Scorched Earth
+138
+XY-Primal Clash
+Trainer - Stadium
+n/a
+Uncommon
+Shrine of Memories
+139
+XY-Primal Clash
+Trainer - Stadium
+n/a
+Uncommon
+Silent Lab
+140
+XY-Primal Clash
+Trainer - Stadium
+n/a
+Uncommon
+Teammates
+141
+XY-Primal Clash
+Trainer - Supporter
+n/a
+Uncommon
+Weakness Policy
+142
+XY-Primal Clash
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Shield Energy
+143
+XY-Primal Clash
+Energy - Special Energy
+n/a
+Uncommon
+Wonder Energy
+144
+XY-Primal Clash
+Energy - Special Energy
+n/a
+Uncommon
+Trevenant-EX
+145
+XY-Primal Clash
+Pokemon - Basic
+Grass
+Ultra Rare
+Camerupt-EX
+146
+XY-Primal Clash
+Pokemon - Basic
+Fire
+Ultra Rare
+Wailord-EX
+147
+XY-Primal Clash
+Pokemon - Basic
+Water
+Ultra Rare
+Kyogre-EX
+148
+XY-Primal Clash
+Pokemon - Basic
+Water
+Ultra Rare
+Primal Kyogre-EX
+149
+XY-Primal Clash
+Pokemon - Mega
+Water
+Ultra Rare
+Groudon-EX
+150
+XY-Primal Clash
+Pokemon - Basic
+Fighting
+Ultra Rare
+Primal Groudon-EX
+151
+XY-Primal Clash
+Pokemon - Mega
+Fighting
+Ultra Rare
+Sharpedo-EX
+152
+XY-Primal Clash
+Pokemon - Basic
+Darkness
+Ultra Rare
+Aggron-EX
+153
+XY-Primal Clash
+Pokemon - Basic
+Metal
+Ultra Rare
+M Aggron-EX
+154
+XY-Primal Clash
+Pokemon - Mega
+Metal
+Ultra Rare
+Gardevoir-EX
+155
+XY-Primal Clash
+Pokemon - Basic
+Fairy
+Ultra Rare
+M Gardevoir-EX
+156
+XY-Primal Clash
+Pokemon - Mega
+Fairy
+Ultra Rare
+Archies Ace in the Hole
+157
+XY-Primal Clash
+Trainer - Supporter
+n/a
+Ultra Rare
+Maxies Hidden Ball Trick
+158
+XY-Primal Clash
+Trainer - Supporter
+n/a
+Ultra Rare
+Professor Birchs Observations
+159
+XY-Primal Clash
+Trainer - Supporter
+n/a
+Ultra Rare
+Teammates
+160
+XY-Primal Clash
+Trainer - Supporter
+n/a
+Ultra Rare
+Dive Ball
+161
+XY-Primal Clash
+Trainer - Item
+n/a
+Secret Rare
+Enhanced Hammer
+162
+XY-Primal Clash
+Trainer - Item
+n/a
+Secret Rare
+Switch
+163
+XY-Primal Clash
+Trainer - Item
+n/a
+Secret Rare
+Weakness Policy
+164
+XY-Primal Clash
+Trainer - Item - Pokemon Tool
+n/a
+Secret Rare

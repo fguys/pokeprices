@@ -1,0 +1,1032 @@
+Caterpie
+1
+Sun Moon
+Pokemon - Basic
+Grass
+Common
+Metapod
+2
+Sun Moon
+Pokemon - Stage 1
+Grass
+Uncommon
+Butterfree
+3
+Sun Moon
+Pokemon - Stage 2
+Grass
+Rare
+Paras
+4
+Sun Moon
+Pokemon - Basic
+Grass
+Common
+Parasect
+5
+Sun Moon
+Pokemon - Stage 1
+Grass
+Rare
+Pinsir
+6
+Sun Moon
+Pokemon - Basic
+Grass
+Uncommon
+Surskit
+7
+Sun Moon
+Pokemon - Basic
+Grass
+Common
+Masquerain
+8
+Sun Moon
+Pokemon - Stage 1
+Grass
+Rare
+Rowlet
+9
+Sun Moon
+Pokemon - Basic
+Grass
+Common
+Dartrix
+10
+Sun Moon
+Pokemon - Stage 1
+Grass
+Uncommon
+Decidueye
+11
+Sun Moon
+Pokemon - Stage 2
+Grass
+Rare
+Decidueye-GX
+12
+Sun Moon
+Pokemon - Stage 2
+Grass
+Ultra Rare
+Grubbin
+13
+Sun Moon
+Pokemon - Basic
+Grass
+Common
+Fomantis
+14
+Sun Moon
+Pokemon - Basic
+Grass
+Common
+Lurantis-GX
+15
+Sun Moon
+Pokemon - Stage 1
+Grass
+Ultra Rare
+Morelull
+16
+Sun Moon
+Pokemon - Basic
+Grass
+Common
+Shiinotic
+17
+Sun Moon
+Pokemon - Stage 1
+Grass
+Rare Holo
+Bounsweet
+18
+Sun Moon
+Pokemon - Basic
+Grass
+Common
+Steenee
+19
+Sun Moon
+Pokemon - Stage 1
+Grass
+Uncommon
+Tsareena
+20
+Sun Moon
+Pokemon - Stage 2
+Grass
+Rare Holo
+Growlithe
+21
+Sun Moon
+Pokemon - Basic
+Fire
+Common
+Arcanine
+22
+Sun Moon
+Pokemon - Stage 1
+Fire
+Rare Holo
+Torkoal
+23
+Sun Moon
+Pokemon - Basic
+Fire
+Common
+Litten
+24
+Sun Moon
+Pokemon - Basic
+Fire
+Common
+Torracat
+25
+Sun Moon
+Pokemon - Stage 1
+Fire
+Uncommon
+Incineroar
+26
+Sun Moon
+Pokemon - Stage 2
+Fire
+Rare
+Incineroar-GX
+27
+Sun Moon
+Pokemon - Stage 2
+Fire
+Ultra Rare
+Psyduck
+28
+Sun Moon
+Pokemon - Basic
+Water
+Common
+Golduck
+29
+Sun Moon
+Pokemon - Stage 1
+Water
+Rare
+Poliwag
+30
+Sun Moon
+Pokemon - Basic
+Water
+Common
+Poliwhirl
+31
+Sun Moon
+Pokemon - Stage 1
+Water
+Uncommon
+Poliwrath
+32
+Sun Moon
+Pokemon - Stage 2
+Water
+Rare Holo
+Shellder
+33
+Sun Moon
+Pokemon - Basic
+Water
+Common
+Cloyster
+34
+Sun Moon
+Pokemon - Stage 1
+Water
+Rare
+Lapras-GX
+35
+Sun Moon
+Pokemon - Basic
+Water
+Ultra Rare
+Corsola
+36
+Sun Moon
+Pokemon - Basic
+Water
+Uncommon
+Wingull
+37
+Sun Moon
+Pokemon - Basic
+Water
+Common
+Pelipper
+38
+Sun Moon
+Pokemon - Stage 1
+Water
+Uncommon
+Popplio
+39
+Sun Moon
+Pokemon - Basic
+Water
+Common
+Brionne
+40
+Sun Moon
+Pokemon - Stage 1
+Water
+Uncommon
+Primarina
+41
+Sun Moon
+Pokemon - Stage 2
+Water
+Rare
+Primarina-GX
+42
+Sun Moon
+Pokemon - Stage 2
+Water
+Ultra Rare
+Crabominable
+43
+Sun Moon
+Pokemon - Stage 1
+Water
+Rare
+Wishiwashi
+44
+Sun Moon
+Pokemon - Basic
+Water
+Uncommon
+Dewpider
+45
+Sun Moon
+Pokemon - Basic
+Water
+Common
+Araquanid
+46
+Sun Moon
+Pokemon - Stage 1
+Water
+Uncommon
+Pyukumuku
+47
+Sun Moon
+Pokemon - Basic
+Water
+Uncommon
+Bruxish
+48
+Sun Moon
+Pokemon - Basic
+Water
+Rare
+Chinchou
+49
+Sun Moon
+Pokemon - Basic
+Lightning
+Common
+Lanturn
+50
+Sun Moon
+Pokemon - Stage 1
+Lightning
+Rare
+Charjabug
+51
+Sun Moon
+Pokemon - Stage 1
+Lightning
+Uncommon
+Vikavolt
+52
+Sun Moon
+Pokemon - Stage 2
+Lightning
+Rare Holo
+Togedemaru
+53
+Sun Moon
+Pokemon - Basic
+Lightning
+Common
+Zubat
+54
+Sun Moon
+Pokemon - Basic
+Psychic
+Common
+Golbat
+55
+Sun Moon
+Pokemon - Stage 1
+Psychic
+Uncommon
+Crobat
+56
+Sun Moon
+Pokemon - Stage 2
+Psychic
+Rare Holo
+Alolan Grimer
+57
+Sun Moon
+Pokemon - Basic
+Psychic
+Common
+Alolan Muk
+58
+Sun Moon
+Pokemon - Stage 1
+Psychic
+Rare Holo
+Drowzee
+59
+Sun Moon
+Pokemon - Basic
+Psychic
+Common
+Hypno
+60
+Sun Moon
+Pokemon - Stage 1
+Psychic
+Uncommon
+Espeon-GX
+61
+Sun Moon
+Pokemon - Stage 1
+Psychic
+Ultra Rare
+Mareanie
+62
+Sun Moon
+Pokemon - Basic
+Psychic
+Common
+Toxapex
+63
+Sun Moon
+Pokemon - Stage 1
+Psychic
+Rare Holo
+Cosmog
+64
+Sun Moon
+Pokemon - Basic
+Psychic
+Common
+Cosmoem
+65
+Sun Moon
+Pokemon - Stage 1
+Psychic
+Rare
+Lunala-GX
+66
+Sun Moon
+Pokemon - Stage 2
+Psychic
+Ultra Rare
+Makuhita
+67
+Sun Moon
+Pokemon - Basic
+Fighting
+Common
+Hariyama
+68
+Sun Moon
+Pokemon - Stage 1
+Fighting
+Rare
+Roggenrola
+69
+Sun Moon
+Pokemon - Basic
+Fighting
+Common
+Boldore
+70
+Sun Moon
+Pokemon - Stage 1
+Fighting
+Uncommon
+Gigalith
+71
+Sun Moon
+Pokemon - Stage 2
+Fighting
+Rare Holo
+Crabrawler
+72
+Sun Moon
+Pokemon - Basic
+Fighting
+Common
+Passimian
+73
+Sun Moon
+Pokemon - Basic
+Fighting
+Uncommon
+Sandygast
+74
+Sun Moon
+Pokemon - Basic
+Fighting
+Common
+Palossand
+75
+Sun Moon
+Pokemon - Stage 1
+Fighting
+Rare
+Alolan Rattata
+76
+Sun Moon
+Pokemon - Basic
+Darkness
+Common
+Alolan Raticate
+77
+Sun Moon
+Pokemon - Stage 1
+Darkness
+Uncommon
+Alolan Meowth
+78
+Sun Moon
+Pokemon - Basic
+Darkness
+Common
+Alolan Persian
+79
+Sun Moon
+Pokemon - Stage 1
+Darkness
+Uncommon
+Umbreon-GX
+80
+Sun Moon
+Pokemon - Stage 1
+Darkness
+Ultra Rare
+Carvanha
+81
+Sun Moon
+Pokemon - Basic
+Darkness
+Common
+Sharpedo
+82
+Sun Moon
+Pokemon - Stage 1
+Darkness
+Rare Holo
+Sandile
+83
+Sun Moon
+Pokemon - Basic
+Darkness
+Common
+Krokorok
+84
+Sun Moon
+Pokemon - Stage 1
+Darkness
+Uncommon
+Krookodile
+85
+Sun Moon
+Pokemon - Stage 2
+Darkness
+Rare Holo
+Alolan Diglett
+86
+Sun Moon
+Pokemon - Basic
+Metal
+Common
+Alolan Dugtrio
+87
+Sun Moon
+Pokemon - Stage 1
+Metal
+Rare Holo
+Skarmory
+88
+Sun Moon
+Pokemon - Basic
+Metal
+Common
+Solgaleo-GX
+89
+Sun Moon
+Pokemon - Stage 2
+Metal
+Ultra Rare
+Snubbull
+90
+Sun Moon
+Pokemon - Basic
+Fairy
+Common
+Granbull
+91
+Sun Moon
+Pokemon - Stage 1
+Fairy
+Uncommon
+Cutiefly
+92
+Sun Moon
+Pokemon - Basic
+Fairy
+Common
+Ribombee
+93
+Sun Moon
+Pokemon - Stage 1
+Fairy
+Rare Holo
+Dratini
+94
+Sun Moon
+Pokemon - Basic
+Dragon
+Common
+Dragonair
+95
+Sun Moon
+Pokemon - Stage 1
+Dragon
+Uncommon
+Dragonite
+96
+Sun Moon
+Pokemon - Stage 2
+Dragon
+Rare Holo
+Spearow
+97
+Sun Moon
+Pokemon - Basic
+Colorless
+Common
+Fearow
+98
+Sun Moon
+Pokemon - Stage 1
+Colorless
+Common
+Kangaskhan
+99
+Sun Moon
+Pokemon - Basic
+Colorless
+Rare Holo
+Tauros-GX
+100
+Sun Moon
+Pokemon - Basic
+Colorless
+Ultra Rare
+Eevee
+101
+Sun Moon
+Pokemon - Basic
+Colorless
+Common
+Spinda
+102
+Sun Moon
+Pokemon - Basic
+Colorless
+Uncommon
+Lillipup
+103
+Sun Moon
+Pokemon - Basic
+Colorless
+Common
+Herdier
+104
+Sun Moon
+Pokemon - Stage 1
+Colorless
+Uncommon
+Stoutland
+105
+Sun Moon
+Pokemon - Stage 2
+Colorless
+Rare
+Pikipek
+106
+Sun Moon
+Pokemon - Basic
+Colorless
+Common
+Trumbeak
+107
+Sun Moon
+Pokemon - Stage 1
+Colorless
+Uncommon
+Toucannon
+108
+Sun Moon
+Pokemon - Stage 2
+Colorless
+Rare
+Yungoos
+109
+Sun Moon
+Pokemon - Basic
+Colorless
+Common
+Gumshoos-GX
+110
+Sun Moon
+Pokemon - Stage 1
+Colorless
+Ultra Rare
+Stufful
+111
+Sun Moon
+Pokemon - Basic
+Colorless
+Common
+Bewear
+112
+Sun Moon
+Pokemon - Stage 1
+Colorless
+Rare
+Oranguru
+113
+Sun Moon
+Pokemon - Basic
+Colorless
+Rare Holo
+Big Malasada
+114
+Sun Moon
+Trainer - Item
+n/a
+Uncommon
+Crushing Hammer
+115
+Sun Moon
+Trainer - Item
+n/a
+Uncommon
+Energy Retrieval
+116
+Sun Moon
+Trainer - Item
+n/a
+Uncommon
+Energy Switch
+117
+Sun Moon
+Trainer - Item
+n/a
+Uncommon
+Exp. Share
+118
+Sun Moon
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Great Ball
+119
+Sun Moon
+Trainer - Item
+n/a
+Uncommon
+Hau
+120
+Sun Moon
+Trainer - Supporter
+n/a
+Uncommon
+Ilima
+121
+Sun Moon
+Trainer - Supporter
+n/a
+Uncommon
+Lillie
+122
+Sun Moon
+Trainer - Supporter
+n/a
+Uncommon
+Nest Ball
+123
+Sun Moon
+Trainer - Item
+n/a
+Uncommon
+Poison Barb
+124
+Sun Moon
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Poké Ball
+125
+Sun Moon
+Trainer - Item
+n/a
+Uncommon
+Pokemon Catcher
+126
+Sun Moon
+Trainer - Item
+n/a
+Uncommon
+Potion
+127
+Sun Moon
+Trainer - Item
+n/a
+Uncommon
+Professor Kukui
+128
+Sun Moon
+Trainer - Supporter
+n/a
+Uncommon
+Rare Candy
+129
+Sun Moon
+Trainer - Item
+n/a
+Uncommon
+Repel
+130
+Sun Moon
+Trainer - Item
+n/a
+Uncommon
+Rotom Dex
+131
+Sun Moon
+Trainer - Item
+n/a
+Uncommon
+Switch
+132
+Sun Moon
+Trainer - Item
+n/a
+Uncommon
+Team Skull Grunt
+133
+Sun Moon
+Trainer - Supporter
+n/a
+Uncommon
+Timer Ball
+134
+Sun Moon
+Trainer - Item
+n/a
+Uncommon
+Ultra Ball
+135
+Sun Moon
+Trainer - Item
+n/a
+Uncommon
+Double Colorless Energy
+136
+Sun Moon
+Energy - Special Energy
+n/a
+Uncommon
+Rainbow Energy
+137
+Sun Moon
+Energy - Special Energy
+n/a
+Uncommon
+Lurantis-GX
+138
+Sun Moon
+Pokemon - Stage 1
+Grass
+Ultra Rare
+Lapras-GX
+139
+Sun Moon
+Pokemon - Basic
+Water
+Ultra Rare
+Espeon-GX
+140
+Sun Moon
+Pokemon - Stage 1
+Psychic
+Ultra Rare
+Lunala-GX
+141
+Sun Moon
+Pokemon - Stage 2
+Psychic
+Ultra Rare
+Umbreon-GX
+142
+Sun Moon
+Pokemon - Stage 1
+Darkness
+Ultra Rare
+Solgaleo-GX
+143
+Sun Moon
+Pokemon - Stage 2
+Metal
+Ultra Rare
+Tauros-GX
+144
+Sun Moon
+Pokemon - Basic
+Colorless
+Ultra Rare
+Gumshoos-GX
+145
+Sun Moon
+Pokemon - Stage 1
+Colorless
+Ultra Rare
+Ilima
+146
+Sun Moon
+Trainer - Supporter
+n/a
+Ultra Rare
+Lillie
+147
+Sun Moon
+Trainer - Supporter
+n/a
+Ultra Rare
+Professor Kukui
+148
+Sun Moon
+Trainer - Supporter
+n/a
+Ultra Rare
+Team Skull Grunt
+149
+Sun Moon
+Trainer - Supporter
+n/a
+Ultra Rare
+Lurantis-GX
+150
+Sun Moon
+Pokemon - Stage 1
+Grass
+Secret Rare
+Lapras-GX
+151
+Sun Moon
+Pokemon - Basic
+Water
+Secret Rare
+Espeon-GX
+152
+Sun Moon
+Pokemon - Stage 1
+Psychic
+Secret Rare
+Lunala-GX
+153
+Sun Moon
+Pokemon - Stage 2
+Psychic
+Secret Rare
+Umbreon-GX
+154
+Sun Moon
+Pokemon - Stage 1
+Darkness
+Secret Rare
+Solgaleo-GX
+155
+Sun Moon
+Pokemon - Stage 2
+Metal
+Secret Rare
+Tauros-GX
+156
+Sun Moon
+Pokemon - Basic
+Colorless
+Secret Rare
+Gumshoos-GX
+157
+Sun Moon
+Pokemon - Stage 1
+Colorless
+Secret Rare
+Nest Ball
+158
+Sun Moon
+Trainer - Item
+n/a
+Secret Rare
+Rotom Dex
+159
+Sun Moon
+Trainer - Item
+n/a
+Secret Rare
+Switch
+160
+Sun Moon
+Trainer - Item
+n/a
+Secret Rare
+Ultra Ball
+161
+Sun Moon
+Trainer - Item
+n/a
+Secret Rare
+Psychic Energy
+162
+Sun Moon
+Energy - Basic Energy
+n/a
+Secret Rare
+Metal Energy
+163
+Sun Moon
+Energy - Basic Energy
+n/a
+Secret Rare
+Grass Energy
+164
+Sun Moon
+Energy - Basic Energy
+n/a
+n/a
+Fire Energy
+165
+Sun Moon
+Energy - Basic Energy
+n/a
+n/a
+Water Energy
+166
+Sun Moon
+Energy - Basic Energy
+n/a
+n/a
+Lightning Energy
+167
+Sun Moon
+Energy - Basic Energy
+n/a
+n/a
+Psychic Energy
+168
+Sun Moon
+Energy - Basic Energy
+n/a
+n/a
+Fighting Energy
+169
+Sun Moon
+Energy - Basic Energy
+n/a
+n/a
+Darkness Energy
+170
+Sun Moon
+Energy - Basic Energy
+n/a
+n/a
+Metal Energy
+171
+Sun Moon
+Energy - Basic Energy
+n/a
+n/a
+Fairy Energy
+172
+Sun Moon
+Energy - Basic Energy
+n/a
+n/a

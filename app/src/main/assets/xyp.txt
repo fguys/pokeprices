@@ -1,0 +1,1236 @@
+Chespin
+XY01
+XY-Promo
+Pokemon - Basic
+Grass
+Promo
+Fennekin
+XY02
+XY-Promo
+Pokemon - Basic
+Fire
+Promo
+Froakie
+XY03
+XY-Promo
+Pokemon - Basic
+Water
+Promo
+Sylveon
+XY04
+XY-Promo
+Pokemon - Stage 1
+Fairy
+Promo
+Xerneas
+XY05
+XY-Promo
+Pokemon - Basic
+Fairy
+Promo
+Yveltal
+XY06
+XY-Promo
+Pokemon - Basic
+Darkness
+Promo
+Xerneas-EX
+XY07
+XY-Promo
+Pokemon - Basic
+Fairy
+Promo
+Yveltal-EX
+XY08
+XY-Promo
+Pokemon - Basic
+Darkness
+Promo
+Garchomp-EX
+XY09
+XY-Promo
+Pokemon - Basic
+Dragon
+Promo
+Dragalge
+XY10
+XY-Promo
+Pokemon - Stage 1
+Dragon
+Promo
+Skiddo
+XY11
+XY-Promo
+Pokemon - Basic
+Grass
+Promo
+Honedge
+XY12
+XY-Promo
+Pokemon - Basic
+Metal
+Promo
+Machamp
+XY13
+XY-Promo
+Pokemon - Stage 2
+Fighting
+Promo
+Trevenant
+XY14
+XY-Promo
+Pokemon - Stage 1
+Psychic
+Promo
+Slurpuff
+XY15
+XY-Promo
+Pokemon - Stage 1
+Fairy
+Promo
+Gogoat
+XY16
+XY-Promo
+Pokemon - Stage 1
+Grass
+Promo
+Charizard-EX
+XY17
+XY-Promo
+Pokemon - Basic
+Fire
+Promo
+Chesnaught-EX
+XY18
+XY-Promo
+Pokemon - Basic
+Grass
+Promo
+Delphox-EX
+XY19
+XY-Promo
+Pokemon - Basic
+Fire
+Promo
+Greninja-EX
+XY20
+XY-Promo
+Pokemon - Basic
+Water
+Promo
+Bronzong
+XY21
+XY-Promo
+Pokemon - Stage 1
+Metal
+Promo
+Darkrai
+XY22
+XY-Promo
+Pokemon - Basic
+Darkness
+Promo
+Shiftry
+XY23
+XY-Promo
+Pokemon - Stage 2
+Grass
+Promo
+Greninja
+XY24
+XY-Promo
+Pokemon - Stage 2
+Darkness
+Promo
+Krookodile-EX
+XY25
+XY-Promo
+Pokemon - Basic
+Darkness
+Promo
+Pyroar
+XY26
+XY-Promo
+Pokemon - Stage 1
+Fire
+Promo
+Champions Festival
+XY27
+XY-Promo
+Trainer - Stadium
+n/a
+Promo
+Venusaur-EX
+XY28
+XY-Promo
+Pokemon - Basic
+Grass
+Promo
+Charizard-EX
+XY29
+XY-Promo
+Pokemon - Basic
+Fire
+Promo
+Blastoise-EX
+XY30
+XY-Promo
+Pokemon - Basic
+Water
+Promo
+Xerneas
+XY31
+XY-Promo
+Pokemon - Basic
+Fairy
+Promo
+Yveltal
+XY32
+XY-Promo
+Pokemon - Basic
+Darkness
+Promo
+Trevor
+XY33
+XY-Promo
+Trainer - Supporter
+n/a
+Promo
+Metagross-EX
+XY34
+XY-Promo
+Pokemon - Basic
+Metal
+Promo
+M Metagross-EX
+XY35
+XY-Promo
+Pokemon - Mega
+Metal
+Promo
+Treecko
+XY36
+XY-Promo
+Pokemon - Basic
+Grass
+Promo
+Torchic
+XY37
+XY-Promo
+Pokemon - Basic
+Fire
+Promo
+Mudkip
+XY38
+XY-Promo
+Pokemon - Basic
+Water
+Promo
+Kingdra
+XY39
+XY-Promo
+Pokemon - Stage 2
+Dragon
+Promo
+Ditto
+XY40
+XY-Promo
+Pokemon - Basic
+Colorless
+Promo
+Kyogre-EX
+XY41
+XY-Promo
+Pokemon - Basic
+Water
+Promo
+Groudon-EX
+XY42
+XY-Promo
+Pokemon - Basic
+Fighting
+Promo
+Diancie-EX
+XY43
+XY-Promo
+Pokemon - Basic
+Fairy
+Promo
+M Diancie-EX
+XY44
+XY-Promo
+Pokemon - Mega
+Fairy
+Promo
+Gallade-EX
+XY45
+XY-Promo
+Pokemon - Basic
+Psychic
+Promo
+Altaria
+XY46
+XY-Promo
+Pokemon - Stage 1
+Colorless
+Promo
+Heliolisk
+XY47
+XY-Promo
+Pokemon - Stage 1
+Lightning
+Promo
+Meowstic
+XY48
+XY-Promo
+Pokemon - Stage 1
+Psychic
+Promo
+Regirock
+XY49
+XY-Promo
+Pokemon - Basic
+Fighting
+Promo
+Pangoro
+XY50
+XY-Promo
+Pokemon - Stage 1
+Fighting
+Promo
+Kyogre
+XY51
+XY-Promo
+Pokemon - Basic
+Water
+Promo
+Groudon
+XY52
+XY-Promo
+Pokemon - Basic
+Fighting
+Promo
+Sceptile-EX
+XY53
+XY-Promo
+Pokemon - Basic
+Grass
+Promo
+Blaziken-EX
+XY54
+XY-Promo
+Pokemon - Basic
+Fire
+Promo
+Swampert-EX
+XY55
+XY-Promo
+Pokemon - Basic
+Water
+Promo
+Blissey
+XY56
+XY-Promo
+Pokemon - Stage 1
+Colorless
+Promo
+Fearow
+XY57
+XY-Promo
+Pokemon - Stage 1
+Colorless
+Promo
+Malamar
+XY58
+XY-Promo
+Pokemon - Stage 1
+Darkness
+Promo
+Salamence
+XY59
+XY-Promo
+Pokemon - Stage 2
+Dragon
+Promo
+Gyarados
+XY60
+XY-Promo
+Pokemon - Stage 1
+Water
+Promo
+Flygon-EX
+XY61
+XY-Promo
+Pokemon - Basic
+Dragon
+Promo
+Absol-EX
+XY62
+XY-Promo
+Pokemon - Basic
+Darkness
+Promo
+M Absol-EX
+XY63
+XY-Promo
+Pokemon - Mega
+Darkness
+Promo
+Rayquaza
+XY64
+XY-Promo
+Pokemon - Basic
+Dragon
+Promo
+Latios
+XY65
+XY-Promo
+Pokemon - Basic
+Psychic
+Promo
+Rayquaza-EX
+XY66
+XY-Promo
+Pokemon - Basic
+Colorless
+Promo
+Jirachi
+XY67
+XY-Promo
+Pokemon - Basic
+Metal
+Promo
+Chesnaught
+XY68
+XY-Promo
+Pokemon - Stage 2
+Grass
+Promo
+Rayquaza-EX
+XY69
+XY-Promo
+Pokemon - Basic
+Colorless
+Promo
+Tyrantrum-EX
+XY70
+XY-Promo
+Pokemon - Basic
+Dragon
+Promo
+Hoopa-EX
+XY71
+XY-Promo
+Pokemon - Basic
+Psychic
+Promo
+Latios-EX
+XY72
+XY-Promo
+Pokemon - Basic
+Dragon
+Promo
+Rayquaza-EX
+XY73
+XY-Promo
+Pokemon - Basic
+Dragon
+Promo
+Reshiram
+XY74
+XY-Promo
+Pokemon - Basic
+Fire
+Promo
+Palkia
+XY75
+XY-Promo
+Pokemon - Basic
+Water
+Promo
+Zekrom
+XY76
+XY-Promo
+Pokemon - Basic
+Lightning
+Promo
+Dialga
+XY77
+XY-Promo
+Pokemon - Basic
+Metal
+Promo
+Latias
+XY78
+XY-Promo
+Pokemon - Basic
+Dragon
+Promo
+Latios
+XY79
+XY-Promo
+Pokemon - Basic
+Dragon
+Promo
+Black Kyurem
+XY80
+XY-Promo
+Pokemon - Basic
+Dragon
+Promo
+White Kyurem
+XY81
+XY-Promo
+Pokemon - Basic
+Dragon
+Promo
+Regigigas
+XY82
+XY-Promo
+Pokemon - Basic
+Colorless
+Promo
+Arceus
+XY83
+XY-Promo
+Pokemon - Basic
+Colorless
+Promo
+Pikachu-EX
+XY84
+XY-Promo
+Pokemon - Basic
+Lightning
+Promo
+Hoopa-EX
+XY85
+XY-Promo
+Pokemon - Basic
+Psychic
+Promo
+M Blaziken-EX
+XY86
+XY-Promo
+Pokemon - Mega
+Fire
+Promo
+M Swampert-EX
+XY87
+XY-Promo
+Pokemon - Mega
+Water
+Promo
+Chespin
+XY88
+XY-Promo
+Pokemon - Basic
+Grass
+Promo
+Pikachu
+XY89
+XY-Promo
+Pokemon - Basic
+Lightning
+Promo
+Hoopa
+XY90
+XY-Promo
+Pokemon - Basic
+Psychic
+Promo
+Champions Festival
+XY91
+XY-Promo
+Trainer - Stadium
+n/a
+Promo
+Sableye
+XY92
+XY-Promo
+Pokemon - Basic
+Psychic
+Promo
+Celebi
+XY93
+XY-Promo
+Pokemon - Basic
+Grass
+Promo
+Trevenant
+XY94
+XY-Promo
+Pokemon - Stage 1
+Psychic
+Promo
+Pikachu
+XY95
+XY-Promo
+Pokemon - Basic
+Lightning
+Promo
+Umbreon
+XY96
+XY-Promo
+Pokemon - Stage 1
+Darkness
+Promo
+Aerodactyl-EX
+XY97
+XY-Promo
+Pokemon - Basic
+Fighting
+Promo
+M Aerodactyl-EX
+XY98
+XY-Promo
+Pokemon - Mega
+Fighting
+Promo
+Aerodactyl Spirit Link
+XY99
+XY-Promo
+Trainer - Item - Pokemon Tool
+n/a
+Promo
+Mewtwo
+XY100
+XY-Promo
+Pokemon - Basic
+Psychic
+Promo
+Mewtwo
+XY101
+XY-Promo
+Pokemon - Basic
+Psychic
+Promo
+Aurorus-EX
+XY102
+XY-Promo
+Pokemon - Basic
+Water
+Promo
+Mawile-EX
+XY103
+XY-Promo
+Pokemon - Basic
+Fairy
+Promo
+M Mawile-EX
+XY104
+XY-Promo
+Pokemon - Mega
+Fairy
+Promo
+Mawile Spirit Link
+XY105
+XY-Promo
+Trainer - Item - Pokemon Tool
+n/a
+Promo
+Gyarados-EX
+XY106
+XY-Promo
+Pokemon - Basic
+Water
+Promo
+Mewtwo-EX
+XY107
+XY-Promo
+Pokemon - Basic
+Psychic
+Promo
+Machamp-EX
+XY108
+XY-Promo
+Pokemon - Basic
+Fighting
+Promo
+Gyarados
+XY109
+XY-Promo
+Pokemon - Stage 1
+Water
+Promo
+Mew
+XY110
+XY-Promo
+Pokemon - Basic
+Psychic
+Promo
+Celebi
+XY111
+XY-Promo
+Pokemon - Basic
+Grass
+Promo
+Jirachi
+XY112
+XY-Promo
+Pokemon - Basic
+Metal
+Promo
+Manaphy
+XY113
+XY-Promo
+Pokemon - Basic
+Water
+Promo
+Darkrai
+XY114
+XY-Promo
+Pokemon - Basic
+Darkness
+Promo
+Shaymin
+XY115
+XY-Promo
+Pokemon - Basic
+Grass
+Promo
+Arceus
+XY116
+XY-Promo
+Pokemon - Basic
+Colorless
+Promo
+Victini
+XY117
+XY-Promo
+Pokemon - Basic
+Fire
+Promo
+Keldeo
+XY118
+XY-Promo
+Pokemon - Basic
+Water
+Promo
+Genesect
+XY119
+XY-Promo
+Pokemon - Basic
+Metal
+Promo
+Meloetta
+XY120
+XY-Promo
+Pokemon - Basic
+Psychic
+Promo
+Charizard-EX
+XY121
+XY-Promo
+Pokemon - Basic
+Fire
+Promo
+Blastoise-EX
+XY122
+XY-Promo
+Pokemon - Basic
+Water
+Promo
+Venusaur-EX
+XY123
+XY-Promo
+Pokemon - Basic
+Grass
+Promo
+Pikachu-EX
+XY124
+XY-Promo
+Pokemon - Basic
+Lightning
+Promo
+Mewtwo-EX
+XY125
+XY-Promo
+Pokemon - Basic
+Psychic
+Promo
+Mew-EX
+XY126
+XY-Promo
+Pokemon - Basic
+Psychic
+Promo
+Moltres
+XY127
+XY-Promo
+Pokemon - Basic
+Fire
+Promo
+White Kyurem
+XY128
+XY-Promo
+Pokemon - Basic
+Water
+Promo
+Zygarde
+XY129
+XY-Promo
+Pokemon - Basic
+Fighting
+Promo
+Tyranitar
+XY130
+XY-Promo
+Pokemon - Stage 2
+Darkness
+Promo
+Pansear
+XY131
+XY-Promo
+Pokemon - Basic
+Fire
+Promo
+Gastly
+XY132
+XY-Promo
+Pokemon - Basic
+Psychic
+Promo
+Ash-Greninja-EX
+XY133
+XY-Promo
+Pokemon - Basic
+Water
+Promo
+Empoleon BREAK
+XY134
+XY-Promo
+Pokemon - BREAK
+Water
+Promo
+Beheeyem BREAK
+XY135
+XY-Promo
+Pokemon - BREAK
+Psychic
+Promo
+Noctowl BREAK
+XY136
+XY-Promo
+Pokemon - BREAK
+Colorless
+Promo
+Vivillon
+XY137
+XY-Promo
+Pokemon - Stage 2
+Grass
+Promo
+Froakie
+XY138
+XY-Promo
+Pokemon - Basic
+Water
+Promo
+Floette
+XY139
+XY-Promo
+Pokemon - Stage 1
+Fairy
+Promo
+Lucario
+XY140
+XY-Promo
+Pokemon - Stage 1
+Fighting
+Promo
+Rayquaza
+XY141
+XY-Promo
+Pokemon - Basic
+Dragon
+Promo
+Azelf
+XY142
+XY-Promo
+Pokemon - Basic
+Psychic
+Promo
+Magikarp
+XY143
+XY-Promo
+Pokemon - Basic
+Water
+Promo
+Yanmega
+XY144
+XY-Promo
+Pokemon - Stage 1
+Grass
+Promo
+Volcanion
+XY145
+XY-Promo
+Pokemon - Basic
+Fire
+Promo
+Clawitzer
+XY146
+XY-Promo
+Pokemon - Stage 1
+Water
+Promo
+Hoopa
+XY147
+XY-Promo
+Pokemon - Basic
+Psychic
+Promo
+Shaymin-EX
+XY148
+XY-Promo
+Pokemon - Basic
+Grass
+Promo
+Xerneas-EX
+XY149
+XY-Promo
+Pokemon - Basic
+Fairy
+Promo
+Yveltal-EX
+XY150
+XY-Promo
+Pokemon - Basic
+Darkness
+Promo
+Zygarde-EX
+XY151
+XY-Promo
+Pokemon - Basic
+Fighting
+Promo
+Zygarde
+XY152
+XY-Promo
+Pokemon - Basic
+Fighting
+Promo
+Ho-Oh
+XY153
+XY-Promo
+Pokemon - Basic
+Fire
+Promo
+Ho-Oh BREAK
+XY154
+XY-Promo
+Pokemon - BREAK
+Fire
+Promo
+Wobbuffet BREAK
+XY155
+XY-Promo
+Pokemon - BREAK
+Psychic
+Promo
+Lugia
+XY156
+XY-Promo
+Pokemon - Basic
+Colorless
+Promo
+Beedrill-EX
+XY157
+XY-Promo
+Pokemon - Basic
+Grass
+Promo
+M Beedrill-EX
+XY158
+XY-Promo
+Pokemon - Mega
+Grass
+Promo
+Beedrill Spirit Link
+XY159
+XY-Promo
+Trainer - Item - Pokemon Tool
+n/a
+Promo
+Black Kyurem
+XY160
+XY-Promo
+Pokemon - Basic
+Water
+Promo
+Braixen
+XY161
+XY-Promo
+Pokemon - Stage 1
+Fire
+Promo
+Greninja
+XY162
+XY-Promo
+Pokemon - Stage 2
+Water
+Promo
+Weezing
+XY163
+XY-Promo
+Pokemon - Stage 1
+Psychic
+Promo
+Volcanion
+XY164
+XY-Promo
+Pokemon - Basic
+Fire
+Promo
+Magearna
+XY165
+XY-Promo
+Pokemon - Basic
+Metal
+Promo
+M Gengar-EX
+XY166
+XY-Promo
+Pokemon - Mega
+Psychic
+Promo
+Garchomp-EX
+XY167
+XY-Promo
+Pokemon - Basic
+Dragon
+Promo
+M Garchomp-EX
+XY168
+XY-Promo
+Pokemon - Mega
+Dragon
+Promo
+Garchomp Spirit Link
+XY169
+XY-Promo
+Trainer - Item - Pokemon Tool
+n/a
+Promo
+Salamence-EX
+XY170
+XY-Promo
+Pokemon - Basic
+Dragon
+Promo
+M Salamence-EX
+XY171
+XY-Promo
+Pokemon - Mega
+Dragon
+Promo
+Salamence Spirit Link
+XY172
+XY-Promo
+Trainer - Item - Pokemon Tool
+n/a
+Promo
+Volcanion-EX
+XY173
+XY-Promo
+Pokemon - Basic
+Fire, Water
+Promo
+Pikachu-EX
+XY174
+XY-Promo
+Pokemon - Basic
+Lightning
+Promo
+Magearna-EX
+XY175
+XY-Promo
+Pokemon - Basic
+Metal
+Promo
+Champions Festival
+XY176
+XY-Promo
+Trainer - Stadium
+n/a
+Promo
+Karen
+XY177
+XY-Promo
+Trainer - Supporter
+n/a
+Promo
+Absol
+XY178
+XY-Promo
+Pokemon - Basic
+Darkness
+Promo
+Snorlax
+XY179
+XY-Promo
+Pokemon - Basic
+Colorless
+Promo
+Arcanine BREAK
+XY180
+XY-Promo
+Pokemon - BREAK
+Fire
+Promo
+Crobat BREAK
+XY181
+XY-Promo
+Pokemon - BREAK
+Psychic
+Promo
+Mandibuzz BREAK
+XY182
+XY-Promo
+Pokemon - BREAK
+Darkness
+Promo
+Mewtwo-EX
+XY183
+XY-Promo
+Pokemon - Basic
+Psychic
+Promo
+Giratina
+XY184
+XY-Promo
+Pokemon - Basic
+Psychic
+Promo
+Volcanion
+XY185
+XY-Promo
+Pokemon - Basic
+Fire
+Promo
+Magearna
+XY186
+XY-Promo
+Pokemon - Basic
+Metal
+Promo
+Celebi
+XY187
+XY-Promo
+Pokemon - Basic
+Grass
+Promo
+Shaymin
+XY188
+XY-Promo
+Pokemon - Basic
+Grass
+Promo
+Victini
+XY189
+XY-Promo
+Pokemon - Basic
+Fire
+Promo
+Manaphy
+XY190
+XY-Promo
+Pokemon - Basic
+Water
+Promo
+Keldeo
+XY191
+XY-Promo
+Pokemon - Basic
+Water
+Promo
+Mew
+XY192
+XY-Promo
+Pokemon - Basic
+Psychic
+Promo
+Meloetta
+XY193
+XY-Promo
+Pokemon - Basic
+Psychic
+Promo
+Darkrai
+XY194
+XY-Promo
+Pokemon - Basic
+Darkness
+Promo
+Jirachi
+XY195
+XY-Promo
+Pokemon - Basic
+Metal
+Promo
+Genesect
+XY196
+XY-Promo
+Pokemon - Basic
+Metal
+Promo
+Arceus
+XY197
+XY-Promo
+Pokemon - Basic
+Colorless
+Promo
+Pikachu
+XY202
+XY-Promo
+Pokemon - Basic
+Lightning
+Promo
+Gym Badge
+XY203
+XY-Promo
+Trainer - Item
+n/a
+Promo
+Gym Badge
+XY204
+XY-Promo
+Trainer - Item
+n/a
+Promo
+Gym Badge
+XY205
+XY-Promo
+Trainer - Item
+n/a
+Promo
+Gym Badge
+XY206
+XY-Promo
+Trainer - Item
+n/a
+Promo
+Gym Badge
+XY207
+XY-Promo
+Trainer - Item
+n/a
+Promo
+Gym Badge
+XY208
+XY-Promo
+Trainer - Item
+n/a
+Promo
+Gym Badge
+XY209
+XY-Promo
+Trainer - Item
+n/a
+Promo
+Gym Badge
+XY210
+XY-Promo
+Trainer - Item
+n/a
+Promo

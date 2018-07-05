@@ -1,0 +1,204 @@
+Team Magmas Numel
+1
+Double Crisis
+Pokemon - Basic
+Fire
+Common
+Team Magmas Camerupt
+2
+Double Crisis
+Pokemon - Stage 1
+Fire
+Rare Holo
+Team Aquas Spheal
+3
+Double Crisis
+Pokemon - Basic
+Water
+Common
+Team Aquas Sealeo
+4
+Double Crisis
+Pokemon - Stage 1
+Water
+Common
+Team Aquas Walrein
+5
+Double Crisis
+Pokemon - Stage 2
+Water
+Rare Holo
+Team Aquas Kyogre-EX
+6
+Double Crisis
+Pokemon - Basic
+Water
+Ultra Rare
+Team Aquas Grimer
+7
+Double Crisis
+Pokemon - Basic
+Psychic
+Common
+Team Aquas Muk
+8
+Double Crisis
+Pokemon - Stage 1
+Psychic
+Rare Holo
+Team Aquas Seviper
+9
+Double Crisis
+Pokemon - Basic
+Psychic
+Common
+Team Magmas Baltoy
+10
+Double Crisis
+Pokemon - Basic
+Psychic
+Common
+Team Magmas Claydol
+11
+Double Crisis
+Pokemon - Stage 1
+Psychic
+Rare Holo
+Team Magmas Aron
+12
+Double Crisis
+Pokemon - Basic
+Fighting
+Common
+Team Magmas Lairon
+13
+Double Crisis
+Pokemon - Stage 1
+Fighting
+Common
+Team Magmas Aggron
+14
+Double Crisis
+Pokemon - Stage 2
+Fighting
+Rare Holo
+Team Magmas Groudon-EX
+15
+Double Crisis
+Pokemon - Basic
+Fighting
+Ultra Rare
+Team Aquas Poochyena
+16
+Double Crisis
+Pokemon - Basic
+Darkness
+Common
+Team Magmas Poochyena
+17
+Double Crisis
+Pokemon - Basic
+Darkness
+Common
+Team Aquas Mightyena
+18
+Double Crisis
+Pokemon - Stage 1
+Darkness
+Common
+Team Magmas Mightyena
+19
+Double Crisis
+Pokemon - Stage 1
+Darkness
+Common
+Team Aquas Carvanha
+20
+Double Crisis
+Pokemon - Basic
+Darkness
+Common
+Team Aquas Sharpedo
+21
+Double Crisis
+Pokemon - Stage 1
+Darkness
+Rare Holo
+Team Magmas Zangoose
+22
+Double Crisis
+Pokemon - Basic
+Colorless
+Common
+Aqua Diffuser
+23
+Double Crisis
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Magma Pointer
+24
+Double Crisis
+Trainer - Item - Pokemon Tool
+n/a
+Uncommon
+Team Aqua Admin
+25
+Double Crisis
+Trainer - Supporter
+n/a
+Uncommon
+Team Aqua Grunt
+26
+Double Crisis
+Trainer - Supporter
+n/a
+Uncommon
+Team Aquas Great Ball
+27
+Double Crisis
+Trainer - Item
+n/a
+Uncommon
+Team Aquas Secret Base
+28
+Double Crisis
+Trainer - Stadium
+n/a
+Uncommon
+Team Magma Admin
+29
+Double Crisis
+Trainer - Supporter
+n/a
+Uncommon
+Team Magma Grunt
+30
+Double Crisis
+Trainer - Supporter
+n/a
+Uncommon
+Team Magmas Great Ball
+31
+Double Crisis
+Trainer - Item
+n/a
+Uncommon
+Team Magmas Secret Base
+32
+Double Crisis
+Trainer - Stadium
+n/a
+Uncommon
+Double Aqua Energy
+33
+Double Crisis
+Energy - Special Energy
+n/a
+Uncommon
+Double Magma Energy
+34
+Double Crisis
+Energy - Special Energy
+n/a
+Uncommon
